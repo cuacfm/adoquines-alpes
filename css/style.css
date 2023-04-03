@@ -215,11 +215,11 @@ a:hover {
   background-position: fixed !important;
 }
 
-.bg-image.overlay, .bg-image.overlay-primary, .bg-image.overlay-info, .bg-image.overlay-success, .bg-image.overlay-warning {
+.bg-image.overlay, .bg-image.overlay-white,.bg-image.overlay-primary, .bg-image.overlay-info, .bg-image.overlay-success, .bg-image.overlay-warning {
   position: relative;
 }
 
-.bg-image.overlay:before, .bg-image.overlay-primary:before, .bg-image.overlay-info:before, .bg-image.overlay-success:before, .bg-image.overlay-warning:before {
+.bg-image.overlay:before, .bg-image.overlay-white:before,.bg-image.overlay-primary:before, .bg-image.overlay-info:before, .bg-image.overlay-success:before, .bg-image.overlay-warning:before {
   content: "";
   position: absolute;
   top: 0;
@@ -243,6 +243,11 @@ a:hover {
 .bg-image.overlay-success:before {
   background: rgba(40, 167, 69, 0.9);
 }
+
+.bg-image.overlay-white:before {
+  background: rgba(255, 255, 255, 0.9);
+}
+
 
 .bg-image.overlay-success:before {
   background: rgba(238, 198, 10, 0.9);
