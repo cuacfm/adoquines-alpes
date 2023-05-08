@@ -17,6 +17,11 @@ Todos los lunes, a las 19.00, en Cuac FM.
     <itunes:image href="https://cuacfm.org/radioco/media/photos/CHAPA.jpg"/>
     <itunes:category text="Sports &amp; Recreation"/>
     <image url="https://cuacfm.org/radioco/media/_versions/photos/CHAPA_rss_image.jpg" link="https://cuacfm.org/radioco/programmes/de-los-adoquines-los-alpes/" title="De los Adoquines a los Alpes"/>
+    <itunes:author>CUAC FM</itunes:author>
+    <itunes:owner>
+		<itunes:email>delosadoquinesalosandes@gmail.com</itunes:email>
+		<itunes:name>CUAC FM</itunes:name>
+	</itunes:owner>
     <item>
       <title>1x10 De los Adoquines a los Alpes</title>
       <link>https://cuacfm.org/globeros/episodio10.html</link>
