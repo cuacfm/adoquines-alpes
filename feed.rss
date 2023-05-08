@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>De los Adoquines a los Alpes</title>
@@ -26,7 +26,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <enclosure url="https://movistarteam.com/wp-content/uploads/2023/05/GettyImages-1488138987-1380x920.jpeg" type="image/jpeg" length="0" />
+      <itunes:image href="https://movistarteam.com/wp-content/uploads/2023/05/GettyImages-1488138987-1380x920.jpeg" />
     </item>
     <item>
       <title>1x9 De los Adoquines a los Alpes</title>
@@ -37,7 +37,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Peloton_Tour_de_Romandie_2008.jpg" type="image/jpeg" length="0" />
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/7/7d/Peloton_Tour_de_Romandie_2008.jpg" />
     </item>
     <item>
       <title>1x8 De los Adoquines a los Alpes</title>
@@ -48,7 +48,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/f/f2/20220424_Liege_Bastogne_Liege199.jpg" type="image/jpeg" length="0" />
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/f/f2/20220424_Liege_Bastogne_Liege199.jpg" />
     </item>
     <item>
       <title>1x7 De los Adoquines a los Alpes</title>
@@ -70,7 +70,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg/1599px-Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg?20140413153616" type="image/jpeg" length="0" />
+      <<itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg/1599px-Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg?20140413153616"  />
     </item>
     <item>
       <title>1x5 De los Adoquines a los Alpes</title>
@@ -81,7 +81,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2164CancellaraChavanel_rvv2011.jpg/1200px-2164CancellaraChavanel_rvv2011.jpg" type="image/jpeg" length="0" />
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2164CancellaraChavanel_rvv2011.jpg/1200px-2164CancellaraChavanel_rvv2011.jpg" />
     </item>
     <item>
       <title>1x4 De los Adoquines a los Alpes</title>
@@ -92,7 +92,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <enclosure url="https://live.staticflickr.com/2859/34139813432_95bee48100_b.jpg" type="image/jpeg" length="0" />
+      <itunes:image href="https://live.staticflickr.com/2859/34139813432_95bee48100_b.jpg" />
     </item>
     <item>
       <title>1x3 De los Adoquines a los Alpes</title>
@@ -103,7 +103,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/5/50/Peloton%2C_Milan-Sanremo_2016%2C_Savona.jpg" type="image/jpeg" length="0" />
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/5/50/Peloton%2C_Milan-Sanremo_2016%2C_Savona.jpg"  />
     </item>
     <item>
       <title>1x2 De los Adoquines a los Alpes</title>
@@ -114,7 +114,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/6/68/Paris-Nice_2011_-_%C3%A9tape_4_-_Thomas_Voeckler.jpg" type="image/jpeg" length="0" />
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/6/68/Paris-Nice_2011_-_%C3%A9tape_4_-_Thomas_Voeckler.jpg"  />
     </item>
     <item>
       <title>1x1 De los Adoquines a los Alpes</title>
@@ -125,7 +125,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <enclosure url="https://cdn.cycle-travel.nl/wp-content/uploads/2022/10/CORVOS_00032930-094.jpg" type="image/jpeg" length="0" />
+      <itunes:image href="https://cdn.cycle-travel.nl/wp-content/uploads/2022/10/CORVOS_00032930-094.jpg" />
     </item>
   </channel>
 </rss>
