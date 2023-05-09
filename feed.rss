@@ -90,7 +90,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/0/06/Amstel_Gold_Race_2013%2C_Terminator.jpg" type="image/jpeg" length="0" />
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/0/06/Amstel_Gold_Race_2013%2C_Terminator.jpg" />
     </item>
     <item>
       <title>1x6 De los Adoquines a los Alpes</title>
@@ -109,7 +109,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
       <itunes:subtitle/>
       <itunes:summary/>
       <itunes:duration>0:01:00</itunes:duration>
-      <<itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg/1599px-Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg?20140413153616"  />
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg/1599px-Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg?20140413153616"  />
     </item>
     <item>
       <title>1x5 De los Adoquines a los Alpes</title>
