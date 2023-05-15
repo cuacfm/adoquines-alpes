@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>De los Adoquines a los Alpes</title>
@@ -22,6 +22,20 @@ Todos los lunes, a las 19.00, en Cuac FM.
 		<itunes:email>delosadoquinesalosandes@gmail.com</itunes:email>
 		<itunes:name>CUAC FM</itunes:name>
 	</itunes:owner>
+    <item>
+      <title>1x11 De los Adoquines a los Alpes</title>
+      <link>https://cuacfm.org/globeros/episodio11.html</link>
+      <description>¡Hola y bienvenidos a el undécimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+• Resultados Giro d'Italia
+      </description>
+      <pubDate>Mon, 15 May 2023 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-15_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/4/4c/20180927_UCI_Road_World_Championships_Innsbruck_Men_Juniors_Road_Race_Remco_Evenepoel_850_0524.jpg" />
+    </item>
     <item>
       <title>1x10 De los Adoquines a los Alpes</title>
       <link>https://cuacfm.org/globeros/episodio10.html</link>
