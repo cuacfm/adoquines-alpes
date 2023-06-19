@@ -23,6 +23,28 @@ Todos los lunes, a las 19.00, en Cuac FM.
 		<itunes:name>CUAC FM</itunes:name>
 	</itunes:owner>
     <item>
+      <title>1x16 De los Adoquines a los Alpes</title>
+      <link>https://cuacfm.org/globeros/episodio16.html</link>
+      <description>¡Hola y bienvenidos a el decimosexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+• Resultados Vuelta a Suiza
+
+• Resultados Vuelta a Eslovenia
+
+• Resultados Vuelta a Bélgica
+
+• Historia: Tour de Francia
+
+• Tercera semana del Tour de Francia 2023
+      </description>
+      <pubDate>Mon, 19 Jun 2023 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2023-06-19_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://cdn.pixabay.com/photo/2020/01/17/21/01/zermatt-4774038_1280.jpg" />
+    </item>
+    <item>
       <title>1x15 De los Adoquines a los Alpes</title>
       <link>https://cuacfm.org/globeros/episodio15.html</link>
       <description>¡Hola y bienvenidos a el decimoquinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
