@@ -23,6 +23,21 @@ Todos los lunes, a las 19.00, en Cuac FM.
 		<itunes:name>CUAC FM</itunes:name>
 	</itunes:owner>
     <item>
+      <title>1x21 De los Adoquines a los Alpes</title>
+      <link>https://cuacfm.org/globeros/episodio21.html</link>
+      <description>¡Hola y bienvenidos a el vigésimo primerepisodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+• Resultados Tour femenino
+
+• Previa mundial UCI</description>
+      <pubDate>Mon, 31 Jul 2023 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-31_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/5/51/20180925_UCI_Road_World_Championships_Innsbruck_Women_Elite_ITT_Annemiek_van_Vleuten_850_9507.jpg" />
+    </item>
+    <item>
       <title>1x20 De los Adoquines a los Alpes</title>
       <link>https://cuacfm.org/globeros/episodio20.html</link>
       <description>¡Hola y bienvenidos a el vigésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
