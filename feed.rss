@@ -23,6 +23,21 @@ Todos los lunes, a las 19.00, en Cuac FM.
 		<itunes:name>CUAC FM</itunes:name>
 	</itunes:owner>
   <item>
+      <title>1x24 De los Adoquines a los Alpes</title>
+      <link>https://cuacfm.org/globeros/episodio24.html</link>
+      <description>¡Hola y bienvenidos a el vigésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+• Resultados Vuelta a Burgos
+
+• Recorrido de "la Vuelta"</description>
+      <pubDate>Mon, 21 Aug 2023 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2023-08-21_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://cdn8.picryl.com/photo/1979/12/31/vuelta-ciclista-a-espana-1979-material-grafico-da40ea-1024.jpg" />
+    </item>
+  <item>
       <title>1x23 De los Adoquines a los Alpes</title>
       <link>https://cuacfm.org/globeros/episodio23.html</link>
       <description>¡Hola y bienvenidos a el vigésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
