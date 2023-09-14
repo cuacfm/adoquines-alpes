@@ -23,6 +23,21 @@ Todos los lunes, a las 19.00, en Cuac FM.
 		<itunes:name>CUAC FM</itunes:name>
 	</itunes:owner>
   <item>
+      <title>1x27 De los Adoquines a los Alpes</title>
+      <link>https://cuacfm.org/globeros/episodio27.html</link>
+      <description>¡Hola y bienvenidos a el vigésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+• Despedida de Van Vleuten
+• Resultados otras competiciones
+• Resultados Vuelta a España
+</description>
+      <pubDate>Mon, 11 Sep 2023 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2023-09-11_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tadej_Pogacar_Jonas_Vingegaard_Sepp_Kuss.jpg/1024px-Tadej_Pogacar_Jonas_Vingegaard_Sepp_Kuss.jpg" />
+    </item>
+  <item>
       <title>1x26 De los Adoquines a los Alpes</title>
       <link>https://cuacfm.org/globeros/episodio26.html</link>
       <description>¡Hola y bienvenidos a el vigésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
