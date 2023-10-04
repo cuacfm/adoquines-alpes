@@ -23,6 +23,21 @@ Todos los lunes, a las 19.00, en Cuac FM.
 		<itunes:name>CUAC FM</itunes:name>
 	</itunes:owner>
   <item>
+      <title>1x30 De los Adoquines a los Alpes</title>
+      <link>https://cuacfm.org/globeros/episodio30.html</link>
+      <description>¡Hola y bienvenidos a el trigésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+• Resultados Tour Croacia
+• Resultados Giro de Emilia
+• Rumore rumore
+</description>
+      <pubDate>Mon, 2 Oct 2023 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-02_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/2/27/Tour-of-Croatia-2015-01-roberta-f.jpg" />
+    </item>
+  <item>
       <title>1x29 De los Adoquines a los Alpes</title>
       <link>https://cuacfm.org/globeros/episodio29.html</link>
       <description>¡Hola y bienvenidos a el vigésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
