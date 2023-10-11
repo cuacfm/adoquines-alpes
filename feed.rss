@@ -19,9 +19,25 @@ Todos los lunes, a las 19.00, en Cuac FM.
     <image url="https://cuacfm.org/radioco/media/_versions/photos/CHAPA_rss_image.jpg" link="https://cuacfm.org/radioco/programmes/de-los-adoquines-los-alpes/" title="De los Adoquines a los Alpes"/>
     <itunes:author>CUAC FM</itunes:author>
     <itunes:owner>
-		<itunes:email>delosadoquinesalosandes@gmail.com</itunes:email>
-		<itunes:name>CUAC FM</itunes:name>
-	</itunes:owner>
+    <itunes:email>delosadoquinesalosandes@gmail.com</itunes:email>
+    <itunes:name>CUAC FM</itunes:name>
+  </itunes:owner>
+  <item>
+      <title>1x31 De los Adoquines a los Alpes</title>
+      <link>https://cuacfm.org/globeros/episodio30.html</link>
+      <description>¡Hola y bienvenidos a el trigésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+• Resultados Campeonato del mundo de gravel
+• Resultados París-Tours
+• Resultados Giro Lombardia
+• Rumore rumore
+</description>
+      <pubDate>Mon, 9 Oct 2023 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-09_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://esmtb.com/wp-content/uploads/2023/09/ucigravel.jpg" />
+    </item>
   <item>
       <title>1x30 De los Adoquines a los Alpes</title>
       <link>https://cuacfm.org/globeros/episodio30.html</link>
