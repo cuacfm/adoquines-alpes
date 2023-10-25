@@ -22,6 +22,23 @@ Todos los lunes, a las 19.00, en Cuac FM.
     <itunes:email>delosadoquinesalosandes@gmail.com</itunes:email>
     <itunes:name>CUAC FM</itunes:name>
   </itunes:owner>
+  <item>
+      <title>1x33 De los Adoquines a los Alpes</title>
+      <link>https://cuacfm.org/globeros/episodio33.html</link>
+      <description>¡Hola y bienvenidos a el trigésimo tercero episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+• Presentación del Giro 2024
+• Repaso carreras de una semana 2023
+• Repaso carreras de tres semanas 2023
+• Plantillas 2024
+• Rumore rumore
+</description>
+      <pubDate>Mon, 23 Oct 2023 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-23_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://images.squarespace-cdn.com/content/v1/52f19869e4b0fcddda26e816/1437130221543-M06I96LOWP0DZW77E13O/Camino+de+Santiago+-+Copyright+Ivan+Blanco+HR+-6444.jpg?format=1000w" />
+    </item>
    <item>
       <title>1x32 De los Adoquines a los Alpes</title>
       <link>https://cuacfm.org/globeros/episodio32.html</link>
