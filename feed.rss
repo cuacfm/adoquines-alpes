@@ -23,12 +23,27 @@ Todos los lunes, a las 19.00, en Cuac FM.
     <itunes:name>CUAC FM</itunes:name>
   </itunes:owner>
   <item>
+    <title>2x02 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio36.html</link>
+    <description>¡Hola y bienvenidos a el trigésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    • Repaso carreras inicio temporada
+    • Historia: el Tour de los Alpes Marítimos
+    • O gran camiño: la crono de A Coruña
+    • Rumore rumore
+    </description>
+      <pubDate>Mon, 12 Feb 2024 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2024-02-12_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://c.pxhere.com/photos/29/a8/child_bmx_round_bikepark_skate_park-757704.jpg!d" />
+    </item>
+  <item>
     <title>2x01 De los Adoquines a los Alpes</title>
     <link>https://cuacfm.org/globeros/episodio35.html</link>
-    <description>¡Hola y bienvenidos a el trigésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Presentación del Tour 2024
-    • Repaso carreras 2023
-    • Premios Alpoquines 2023
+    <description>¡Hola y bienvenidos a el trigésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    • Repaso carreras 2024
+    • Apuestas Alpoquines 2024
     • Rumore rumore
     </description>
       <pubDate>Mon, 05 Feb 2024 17:00:00 +0000</pubDate>
