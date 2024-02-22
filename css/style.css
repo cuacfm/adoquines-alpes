@@ -279,6 +279,10 @@ a:hover {
   margin-top: -20px;
 }
 
+.site-navigation img {
+  border-radius: 50%;
+}
+
 .site-navbar .site-navigation {
   background: rgba(0, 0, 0, 0.2);
 }
