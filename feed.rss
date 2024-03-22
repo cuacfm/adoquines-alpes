@@ -15,13 +15,28 @@
 Todos los lunes, a las 19.00, en Cuac FM.
 </itunes:summary>
     <itunes:image href="https://cuacfm.org/radioco/media/photos/CHAPA.jpg"/>
-    <itunes:category text="Sports &amp; Recreation"/>
+    <itunes:category text="Sports"/>
     <image url="https://cuacfm.org/radioco/media/_versions/photos/CHAPA_rss_image.jpg" link="https://cuacfm.org/radioco/programmes/de-los-adoquines-los-alpes/" title="De los Adoquines a los Alpes"/>
     <itunes:author>CUAC FM</itunes:author>
     <itunes:owner>
     <itunes:email>delosadoquinesalosandes@gmail.com</itunes:email>
     <itunes:name>CUAC FM</itunes:name>
   </itunes:owner>
+  <item>
+    <title>2x07 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio39.html</link>
+    <description>¡Hola y bienvenidos a el cuadragésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    • Repaso carreras inicio temporada
+    • Resultados Milan - San Remo
+    • Resultados trofeo Alfredo Binda
+    </description>
+      <pubDate>Mon, 18 Mar 2024 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2024-03-18_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://www.rawcyclingmag.com/wp-content/uploads/2020/02/77A2904.jpg" />
+    </item>
   <item>
     <title>2x06 De los Adoquines a los Alpes</title>
     <link>https://cuacfm.org/globeros/episodio39.html</link>
