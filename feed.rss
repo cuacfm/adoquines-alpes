@@ -23,8 +23,25 @@ Todos los lunes, a las 19.00, en Cuac FM.
     <itunes:name>CUAC FM</itunes:name>
   </itunes:owner>
   <item>
+    <title>2x08 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio42.html</link>
+    <description>¡Hola y bienvenidos a el cuadragésimo segundo0 episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    • Repaso carreras inicio temporada
+    • Resultados Volta Catalunya
+    • Resultados Gante Wevelgem
+    • Resultados a través de Flandes
+    • Resultados trofeo Coppi Bartali
+    </description>
+      <pubDate>Mon, 25 Mar 2024 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2024-03-25_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://static.motor.es/fotos-diccionario/2022/08//carril-bici_1659715680.jpg" />
+    </item>
+  <item>
     <title>2x07 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio39.html</link>
+    <link>https://cuacfm.org/globeros/episodio41.html</link>
     <description>¡Hola y bienvenidos a el cuadragésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
     • Repaso carreras inicio temporada
     • Resultados Milan - San Remo
@@ -39,7 +56,7 @@ Todos los lunes, a las 19.00, en Cuac FM.
     </item>
   <item>
     <title>2x06 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio39.html</link>
+    <link>https://cuacfm.org/globeros/episodio40.html</link>
     <description>¡Hola y bienvenidos a el cuadragésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
     • Repaso carreras inicio temporada
     • Resultados París Niza y Tirreno Adriático
