@@ -22,6 +22,20 @@ Todos los lunes, a las 19.00, en Cuac FM.
     <itunes:email>delosadoquinesalosandes@gmail.com</itunes:email>
     <itunes:name>CUAC FM</itunes:name>
   </itunes:owner>
+   <item>
+    <title>2x15 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio49.html</link>
+    <description>¡Hola y bienvenidos a el cuadragésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    • Resultados Itzulia Femeniana
+    • Resultados Giro de Italia
+    </description>
+      <pubDate>Mon, 13 May 2024 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2024-05-13_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://cdn.mos.cms.futurecdn.net/fvDhCyZ9XTUuU2aWsohzTG.jpg" />
+    </item>
   <item>
     <title>2x14 De los Adoquines a los Alpes</title>
     <link>https://cuacfm.org/globeros/episodio48.html</link>
