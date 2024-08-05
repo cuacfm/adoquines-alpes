@@ -21,6 +21,20 @@ Todos los lunes, a las 19.00, en Cuac FM.
     <itunes:owner>
     <itunes:email>delosadoquinesalosandes@gmail.com</itunes:email>
     <itunes:name>CUAC FM</itunes:name>
+    <item>
+    <title>2x26 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio60.html</link>
+    <description>¡Hola y bienvenidos a el sexagésimo  episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    • Previa JJ.OO.
+    • Previa la Vuelta
+    </description>
+      <pubDate>Mon, 29 Jul 2024 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-29_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/fdky7ngqkdsgovshfyjn" />
+    </item>
   </itunes:owner>
   <item>
     <title>2x25 De los Adoquines a los Alpes</title>
