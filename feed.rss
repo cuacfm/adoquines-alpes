@@ -23,6 +23,35 @@ Todos los lunes, a las 19.00, en Cuac FM.
     <itunes:name>CUAC FM</itunes:name>
   </itunes:owner>
   <item>
+    <title>2x39 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio73.html</link>
+    <description>¡Hola y bienvenidos a el septuagésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    • Rumore rumore
+    • Premios Alpoquines 2024
+    • Cierre de temporada
+    </description>
+      <pubDate>Mon, 28 Oct 2024 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2024-10-28_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://cuacfm.org/globeros/73.jpeg" />
+    </item>
+    <item>
+    <title>2x38 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio72.html</link>
+    <description>¡Hola y bienvenidos a el septuagésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    • Rumore rumore
+    • Entrevista gerente Top Bike
+    </description>
+      <pubDate>Mon, 21 Oct 2024 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2024-10-21_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://cuacfm.org/globeros/72.jpeg" />
+    </item>
+  <item>
     <title>2x37 De los Adoquines a los Alpes</title>
     <link>https://cuacfm.org/globeros/episodio71.html</link>
     <description>¡Hola y bienvenidos a el septuagésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
