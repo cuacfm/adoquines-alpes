@@ -23,6 +23,36 @@ Todos los lunes, a las 19.00, en Cuac FM.
     <itunes:name>CUAC FM</itunes:name>
   </itunes:owner>
   <item>
+    <title>3x04 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio77.html</link>
+    <description>¡Hola y bienvenidos a el septuagésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    • Análisis Milán-Sanremo
+    • Previa Volta a Catalunya
+    • Previa E3
+    </description>
+      <pubDate>Mon, 24 Mar 2025 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-24_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://cuacfm.org/globeros/77.jpeg" />
+    </item>
+  <item>
+    <title>3x03 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio76.html</link>
+    <description>¡Hola y bienvenidos a el septuagésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    • Análisis París-Niza
+    • Análisis Tirreno-Adriático
+    • Previa Milán-Sanremo
+    </description>
+      <pubDate>Mon, 17 Mar 2025 17:00:00 +0000</pubDate>
+      <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-17_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+      <itunes:subtitle/>
+      <itunes:summary/>
+      <itunes:duration>0:01:00</itunes:duration>
+      <itunes:image href="https://cuacfm.org/globeros/76.jpeg" />
+    </item>
+  <item>
     <title>3x02 De los Adoquines a los Alpes</title>
     <link>https://cuacfm.org/globeros/episodio75.html</link>
     <description>¡Hola y bienvenidos a el septuagésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
