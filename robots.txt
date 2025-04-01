@@ -1,0 +1,86 @@
+User-agent: *
+Allow: /
+Allow: /episodio.html
+Disallow: /episodio*.html
+
+# Redirect old episode URLs to new dynamic URL
+Redirect 301 /episodio77.html /episodio.html?id=77
+Redirect 301 /episodio76.html /episodio.html?id=76
+Redirect 301 /episodio75.html /episodio.html?id=75
+Redirect 301 /episodio74.html /episodio.html?id=74
+Redirect 301 /episodio73.html /episodio.html?id=73
+Redirect 301 /episodio72.html /episodio.html?id=72
+Redirect 301 /episodio71.html /episodio.html?id=71
+Redirect 301 /episodio70.html /episodio.html?id=70
+Redirect 301 /episodio69.html /episodio.html?id=69
+Redirect 301 /episodio68.html /episodio.html?id=68
+Redirect 301 /episodio67.html /episodio.html?id=67
+Redirect 301 /episodio66.html /episodio.html?id=66
+Redirect 301 /episodio65.html /episodio.html?id=65
+Redirect 301 /episodio64.html /episodio.html?id=64
+Redirect 301 /episodio63.html /episodio.html?id=63
+Redirect 301 /episodio62.html /episodio.html?id=62
+Redirect 301 /episodio61.html /episodio.html?id=61
+Redirect 301 /episodio60.html /episodio.html?id=60
+Redirect 301 /episodio59.html /episodio.html?id=59
+Redirect 301 /episodio58.html /episodio.html?id=58
+Redirect 301 /episodio57.html /episodio.html?id=57
+Redirect 301 /episodio56.html /episodio.html?id=56
+Redirect 301 /episodio55.html /episodio.html?id=55
+Redirect 301 /episodio54.html /episodio.html?id=54
+Redirect 301 /episodio53.html /episodio.html?id=53
+Redirect 301 /episodio52.html /episodio.html?id=52
+Redirect 301 /episodio51.html /episodio.html?id=51
+Redirect 301 /episodio50.html /episodio.html?id=50
+Redirect 301 /episodio49.html /episodio.html?id=49
+Redirect 301 /episodio48.html /episodio.html?id=48
+Redirect 301 /episodio47.html /episodio.html?id=47
+Redirect 301 /episodio46.html /episodio.html?id=46
+Redirect 301 /episodio45.html /episodio.html?id=45
+Redirect 301 /episodio44.html /episodio.html?id=44
+Redirect 301 /episodio43.html /episodio.html?id=43
+Redirect 301 /episodio42.html /episodio.html?id=42
+Redirect 301 /episodio41.html /episodio.html?id=41
+Redirect 301 /episodio40.html /episodio.html?id=40
+Redirect 301 /episodio39.html /episodio.html?id=39
+Redirect 301 /episodio38.html /episodio.html?id=38
+Redirect 301 /episodio37.html /episodio.html?id=37
+Redirect 301 /episodio36.html /episodio.html?id=36
+Redirect 301 /episodio35.html /episodio.html?id=35
+Redirect 301 /episodio34.html /episodio.html?id=34
+Redirect 301 /episodio33.html /episodio.html?id=33
+Redirect 301 /episodio32.html /episodio.html?id=32
+Redirect 301 /episodio31.html /episodio.html?id=31
+Redirect 301 /episodio30.html /episodio.html?id=30
+Redirect 301 /episodio29.html /episodio.html?id=29
+Redirect 301 /episodio28.html /episodio.html?id=28
+Redirect 301 /episodio27.html /episodio.html?id=27
+Redirect 301 /episodio26.html /episodio.html?id=26
+Redirect 301 /episodio25.html /episodio.html?id=25
+Redirect 301 /episodio24.html /episodio.html?id=24
+Redirect 301 /episodio23.html /episodio.html?id=23
+Redirect 301 /episodio22.html /episodio.html?id=22
+Redirect 301 /episodio21.html /episodio.html?id=21
+Redirect 301 /episodio20.html /episodio.html?id=20
+Redirect 301 /episodio19.html /episodio.html?id=19
+Redirect 301 /episodio18.html /episodio.html?id=18
+Redirect 301 /episodio17.html /episodio.html?id=17
+Redirect 301 /episodio16.html /episodio.html?id=16
+Redirect 301 /episodio15.html /episodio.html?id=15
+Redirect 301 /episodio14.html /episodio.html?id=14
+Redirect 301 /episodio13.html /episodio.html?id=13
+Redirect 301 /episodio12.html /episodio.html?id=12
+Redirect 301 /episodio11.html /episodio.html?id=11
+Redirect 301 /episodio10.html /episodio.html?id=10
+Redirect 301 /episodio9.html /episodio.html?id=9
+Redirect 301 /episodio8.html /episodio.html?id=8
+Redirect 301 /episodio7.html /episodio.html?id=7
+Redirect 301 /episodio6.html /episodio.html?id=6
+Redirect 301 /episodio5.html /episodio.html?id=5
+Redirect 301 /episodio4.html /episodio.html?id=4
+Redirect 301 /episodio3.html /episodio.html?id=3
+Redirect 301 /episodio2.html /episodio.html?id=2
+Redirect 301 /episodio1.html /episodio.html?id=1
+
+# Sitemap
+Sitemap: https://cuacfm.org/globeros/sitemap.xml 

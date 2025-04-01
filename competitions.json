@@ -1,0 +1,36 @@
+{
+  "competitions": [
+    {
+      "id": 1,
+      "name": "A Través Flandes",
+      "date": "2 Abril",
+      "image": "images/milan.jpg",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/A_trav%C3%A9s_de_Flandes",
+      "category": "Clásica"
+    },
+    {
+      "id": 2,
+      "name": "Tour de Flandes",
+      "date": "6 Abril",
+      "image": "images/milan.jpg",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Tour_de_Flandres",
+      "category": "Monumento"
+    },
+    {
+      "id": 3,
+      "name": "Itzulia Basque Country",
+      "date": "7-12 Abril",
+      "image": "images/milan.jpg",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Itzulia_Basque_Country",
+      "category": "Vuelta 1 semana"
+    }, 
+    {
+      "id": 4,
+      "name": "Paris-Roubaix",
+      "date": "9 Abril",
+      "image": "images/milan.jpg",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Par%C3%ADs-Roubaix",
+      "category": "Monumento"
+    }
+  ]
+} 

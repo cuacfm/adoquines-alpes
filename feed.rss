@@ -1,1209 +1,1247 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>De los Adoquines a los Alpes</title>
     <link>https://cuacfm.org/globeros/</link>
     <description>&lt;p&gt;&amp;iquest;Te emocionas viendo la Par&amp;iacute;s- Roubaix pero no has hecho cien metros de pav&amp;eacute; en tu vida?, &amp;iquest;lo que mejor conoces de Flandes es la cerveza pero dar&amp;iacute;as un ri&amp;ntilde;&amp;oacute;n por subir el Paterberg?, &amp;iquest;est&amp;aacute;s deseando que llegue el Tour pero te duermes en todas las etapas al sprint?. Si es que s&amp;iacute;, eres de los nuestros. Los globeros somos legi&amp;oacute;n. Y aunque sepamos m&amp;aacute;s de p&amp;aacute;jaras que un ornit&amp;oacute;logo, y tengamos que guardar cama s&amp;oacute;lo de mirar con deseo una bici aero, no podemos evitar dar la turra urbi et orbi con lo que m&amp;aacute;s nos gusta: todo lo relacionado con el ciclismo. Para que no nos echen de nuestras casas por pesaos, nos hemos venido a Cuac FM, que son gente de mucho aguante para esto de las parafilias y nos dejan despotricar a nuestras anchas. Asi que, qu&amp;iacute;tate el casco, ponte los cascos y &amp;uacute;nete a De los Adoquines a los Alpes. &amp;iexcl;Globeros al Poder!.&lt;/p&gt;
 
-&lt;p&gt;Todos los lunes, a las 19.00, en Cuac FM.&lt;/p&gt;
-</description>
+&lt;p&gt;Todos los lunes, a las 19.00, en Cuac FM.&lt;/p&gt;</description>
     <atom:link href="https://cuacfm.org/globeros/feed.rss" rel="self"/>
     <language>es</language>
-    <lastBuildDate>Mon, 08 May 2023 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 16:33:27 GMT</lastBuildDate>
     <itunes:explicit>clean</itunes:explicit>
     <itunes:summary>¿Te emocionas viendo la París- Roubaix pero no has hecho cien metros de pavé en tu vida?, ¿lo que mejor conoces de Flandes es la cerveza pero darías un riñón por subir el Paterberg?, ¿estás deseando que llegue el Tour pero te duermes en todas las etapas al sprint?. Si es que sí, eres de los nuestros. Los globeros somos legión. Y aunque sepamos más de pájaras que un ornitólogo, y tengamos que guardar cama sólo de mirar con deseo una bici aero, no podemos evitar dar la turra urbi et orbi con lo que más nos gusta: todo lo relacionado con el ciclismo. Para que no nos echen de nuestras casas por pesaos, nos hemos venido a Cuac FM, que son gente de mucho aguante para esto de las parafilias y nos dejan despotricar a nuestras anchas. Asi que, quítate el casco, ponte los cascos y únete a De los Adoquines a los Alpes. ¡Globeros al Poder!.
-Todos los lunes, a las 19.00, en Cuac FM.
-</itunes:summary>
+Todos los lunes, a las 19.00, en Cuac FM.</itunes:summary>
     <itunes:image href="https://cuacfm.org/radioco/media/photos/CHAPA.jpg"/>
     <itunes:category text="Sports"/>
     <image url="https://cuacfm.org/radioco/media/_versions/photos/CHAPA_rss_image.jpg" link="https://cuacfm.org/radioco/programmes/de-los-adoquines-los-alpes/" title="De los Adoquines a los Alpes"/>
     <itunes:author>CUAC FM</itunes:author>
     <itunes:owner>
-    <itunes:email>delosadoquinesalosandes@gmail.com</itunes:email>
-    <itunes:name>CUAC FM</itunes:name>
-  </itunes:owner>
+      <itunes:email>delosadoquinesalosandes@gmail.com</itunes:email>
+      <itunes:name>CUAC FM</itunes:name>
+    </itunes:owner>
+  <item>
+    <title>3x05 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=78</link>
+    <description>¡Hola y bienvenidos a el septuagésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Análisis E3
+    • Análisis Volta a Catalunya
+    • Previa A través de Flandes
+    • Previa Tour de Flanders
+    </description>
+    <pubDate>Mon, 31 Mar 2025 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-31_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/78.jpeg" />
+  </item>
   <item>
     <title>3x04 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio77.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=77</link>
     <description>¡Hola y bienvenidos a el septuagésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Análisis Milán-Sanremo
     • Previa Volta a Catalunya
     • Previa E3
     </description>
-      <pubDate>Mon, 24 Mar 2025 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-24_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/77.jpeg" />
-    </item>
+    <pubDate>Mon, 24 Mar 2025 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-24_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/77.jpeg" />
+  </item>
   <item>
     <title>3x03 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio76.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=76</link>
     <description>¡Hola y bienvenidos a el septuagésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Previa Tirreno-Adriático
     • Análisis París-Niza
-    • Análisis Tirreno-Adriático
     • Previa Milán-Sanremo
     </description>
-      <pubDate>Mon, 17 Mar 2025 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-17_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/76.jpeg" />
-    </item>
+    <pubDate>Mon, 17 Mar 2025 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-17_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/76.jpeg" />
+  </item>
   <item>
     <title>3x02 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio75.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=75</link>
     <description>¡Hola y bienvenidos a el septuagésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Análisis Strade Bianche
     • Análisis París-Niza
     • Análisis Tirreno-Adriático
     </description>
-      <pubDate>Mon, 10 Mar 2025 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-10_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/75.jpeg" />
-    </item>
+    <pubDate>Mon, 10 Mar 2025 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-10_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/75.jpeg" />
+  </item>
   <item>
     <title>3x01 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio74.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=74</link>
     <description>¡Hola y bienvenidos a el septuagésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Bienvenido a la temporada 2024-2025
     • Apuestas para la temporada 2024-2025
     </description>
-      <pubDate>Mon, 03 Mar 2025 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-03_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/74.jpeg" />
-    </item>
+    <pubDate>Mon, 03 Mar 2025 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2025-03-03_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/74.jpeg" />
+  </item>
   <item>
     <title>2x39 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio73.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=73</link>
     <description>¡Hola y bienvenidos a el septuagésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Rumore rumore
     • Premios Alpoquines 2024
     • Cierre de temporada
     </description>
-      <pubDate>Mon, 28 Oct 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-10-28_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/73.jpeg" />
-    </item>
-    <item>
+    <pubDate>Mon, 28 Oct 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-10-28_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/73.jpeg" />
+  </item>
+  <item>
     <title>2x38 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio72.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=72</link>
     <description>¡Hola y bienvenidos a el septuagésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Rumore rumore
     • Entrevista gerente Top Bike
     </description>
-      <pubDate>Mon, 21 Oct 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-10-21_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/72.jpeg" />
-    </item>
+    <pubDate>Mon, 21 Oct 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-10-21_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/72.jpeg" />
+  </item>
   <item>
     <title>2x37 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio71.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=71</link>
     <description>¡Hola y bienvenidos a el septuagésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Resultados Ladies Tour
     • Resultados Il Lombardía
     • Rumore rumore
     </description>
-      <pubDate>Mon, 14 Oct 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-10-14_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/71.jpeg" />
-    </item>
+    <pubDate>Mon, 14 Oct 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-10-14_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/71.jpeg" />
+  </item>
   <item>
     <title>2x36 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio70.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=70</link>
     <description>¡Hola y bienvenidos a el septuagésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Resultados Giro de la emilia
     • Resultados mundial gravel
     • Rumore rumore
     </description>
-      <pubDate>Mon, 7 Oct 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-10-07_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/70.jpeg" />
-    </item>
+    <pubDate>Mon, 07 Oct 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-10-07_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/70.jpeg" />
+  </item>
   <item>
     <title>2x35 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio69.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=69</link>
     <description>¡Hola y bienvenidos a el sexagésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados  
+
+    • Resultados
     • Rumore rumore
     </description>
-      <pubDate>Mon, 30 Sep 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-09-30_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/69.jpeg" />
-    </item>
+    <pubDate>Mon, 30 Sep 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-09-30_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/69.jpeg" />
+  </item>
   <item>
     <title>2x34 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio68.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=68</link>
     <description>¡Hola y bienvenidos a el sexagésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados mundiales 
+
+    • Resultados europeos
     • Rumore rumore
     </description>
-      <pubDate>Mon, 23 Sep 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-09-23_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/68.jpeg" />
-    </item>
+    <pubDate>Mon, 23 Sep 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-09-23_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/68.jpeg" />
+  </item>
   <item>
     <title>2x33 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio67.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=67</link>
     <description>¡Hola y bienvenidos a el sexagésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Resultados europeos
     • Previa mundiales
     • Rumore rumore
     </description>
-      <pubDate>Mon, 16 Sep 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-09-16_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/67.jpeg" />
-    </item>
+    <pubDate>Mon, 16 Sep 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-09-16_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/67.jpeg" />
+  </item>
   <item>
     <title>2x32 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio66.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=66</link>
     <description>¡Hola y bienvenidos a el sexagésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Resultados la Vuelta
     • Análisis resultados top ten
     </description>
-      <pubDate>Mon, 09 Sep 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-09-09_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/66.jpeg" />
-    </item>
+    <pubDate>Mon, 09 Sep 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-09-09_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/66.jpeg" />
+  </item>
   <item>
     <title>2x31 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio65.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=65</link>
     <description>¡Hola y bienvenidos a el sexagésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Resultados la Vuelta
     </description>
-      <pubDate>Mon, 02 Sep 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-09-02_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/65.jpeg" />
-    </item>
+    <pubDate>Mon, 02 Sep 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-09-02_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/65.jpeg" />
+  </item>
   <item>
     <title>2x30 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio64.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=64</link>
     <description>¡Hola y bienvenidos a el sexagésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Resultados la Vuelta
     </description>
-      <pubDate>Mon, 26 Aug 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-08-26_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/64.jpeg" />
-    </item>
+    <pubDate>Mon, 26 Aug 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-08-26_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/64.jpeg" />
+  </item>
   <item>
     <title>2x29 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio63.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=63</link>
     <description>¡Hola y bienvenidos a el sexagésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Resultados la Vuelta
     </description>
-      <pubDate>Mon, 19 Aug 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-08-19_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/63.jpeg" />
-    </item>
-    <item>
-  <title>2x28 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio62.html</link>
+    <pubDate>Mon, 19 Aug 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-08-19_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/63.jpeg" />
+  </item>
+  <item>
+    <title>2x28 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=62</link>
     <description>¡Hola y bienvenidos a el sexagésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados Tour Femenino
+
+    • Resultados Tour femenino
     • Previa la Vuelta
     </description>
-      <pubDate>Mon, 12 Aug 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-08-12_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/62.jpeg" />
-    </item>
+    <pubDate>Mon, 12 Aug 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-08-12_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/62.jpeg" />
+  </item>
   <item>
     <title>2x27 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio61.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=61</link>
     <description>¡Hola y bienvenidos a el sexagésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Resultados JJ.OO.
     • Previa la Vuelta
     </description>
-      <pubDate>Mon, 05 Aug 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-08-05_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/61.jpeg" />
-    </item>
-    <item>
-  <title>2x26 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio60.html</link>
-    <description>¡Hola y bienvenidos a el sexagésimo  episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    <pubDate>Mon, 05 Aug 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-08-05_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/61.jpeg" />
+  </item>
+  <item>
+    <title>2x26 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=60</link>
+    <description>¡Hola y bienvenidos a el sexagésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Previa JJ.OO.
     • Previa la Vuelta
     </description>
-      <pubDate>Mon, 29 Jul 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-29_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/fdky7ngqkdsgovshfyjn" />
-    </item>
+    <pubDate>Mon, 29 Jul 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-29_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/fdky7ngqkdsgovshfyjn" />
+  </item>
   <item>
     <title>2x25 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio59.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=59</link>
     <description>¡Hola y bienvenidos a el quincuagésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados Tour de Francia
+
+    • Resultados Tour
     </description>
-      <pubDate>Mon, 22 Jul 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-22_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/La_course_by_Le_Tour_de_France_2019_%C3%A0_Pau_-_Podium_02.jpg/1599px-La_course_by_Le_Tour_de_France_2019_%C3%A0_Pau_-_Podium_02.jpg?20190719211157" />
-    </item>
+    <pubDate>Mon, 22 Jul 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-22_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/La_course_by_Le_Tour_de_France_2019_%C3%A0_Pau_-_Podium_02.jpg/1599px-La_course_by_Le_Tour_de_France_2019_%C3%A0_Pau_-_Podium_02.jpg?20190719211157" />
+  </item>
   <item>
     <title>2x24 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio58.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=58</link>
     <description>¡Hola y bienvenidos a el quincuagésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados Tour de Francia
+
+    • Resultados Tour
     </description>
-      <pubDate>Mon, 15 Jul 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-15_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://images.squarespace-cdn.com/content/v1/52f19869e4b0fcddda26e816/1444072685086-7YDD6420CDT1MHBJEE84/Camino+del+Norte+-+Dia+03+-+Copyright+Ivan+Blanco+-+Camino+del+Norte+-+Dia+03+-+Copyright+Ivan+Blanco+-+Monte+Igueldo%2C+Bicigrino%2C+San+Sebastian%2C+viajar%2C+BTT%2C+Orbea" />
-    </item>
+    <pubDate>Mon, 15 Jul 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-15_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://images.squarespace-cdn.com/content/v1/52f19869e4b0fcddda26e816/1444072685086-7YDD6420CDT1MHBJEE84/Camino+del+Norte+-+Dia+03+-+Copyright+Ivan+Blanco+-+Camino+del+Norte+-+Dia+03+-+Copyright+Ivan+Blanco+-+Monte+Igueldo%2C+Bicigrino%2C+San+Sebastian%2C+viajar%2C+BTT%2C+Orbea" />
+  </item>
   <item>
     <title>2x23 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio57.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=57</link>
     <description>¡Hola y bienvenidos a el quincuagésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados Tour de Francia
+
+    • Resultados Tour
     </description>
-      <pubDate>Mon, 08 Jul 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-08_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://c.pxhere.com/photos/7c/13/show_street_camera_new_city_nyc_trip_travel-241567.jpg!d" />
-    </item>
+    <pubDate>Mon, 08 Jul 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-08_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://c.pxhere.com/photos/7c/13/show_street_camera_new_city_nyc_trip_travel-241567.jpg!d" />
+  </item>
   <item>
     <title>2x22 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio56.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=56</link>
     <description>¡Hola y bienvenidos a el quincuagésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados Tour de Francia
+
+    • Resultados Tour
     </description>
-      <pubDate>Mon, 01 Jul 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-01_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/a/aa/Col_du_Galibier_-_Tour_de_France_1993.jpg" />
-    </item>
+    <pubDate>Mon, 01 Jul 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-07-01_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/a/aa/Col_du_Galibier_-_Tour_de_France_1993.jpg" />
+  </item>
   <item>
     <title>2x21 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio55.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=55</link>
     <description>¡Hola y bienvenidos a el quincuagésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Resultados Campeonatos nacionales
-    • Previa Tour de Francia
+    • Previa Tour
     </description>
-      <pubDate>Mon, 24 Jun 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-06-24_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/watermark:Picture%3A+Sirotti/width:742/height:495/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fciclismoaldia.newsifier.com%2Fimages%2F2023-07%2F1125911354-64b4615b2400a.jpg" />
-    </item>
-    <item>
+    <pubDate>Mon, 24 Jun 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-06-24_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/watermark:Picture%3A+Sirotti/width:742/height:495/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fciclismoaldia.newsifier.com%2Fimages%2F2023-07%2F1125911354-64b4615b2400a.jpg" />
+  </item>
+  <item>
     <title>2x20 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio54.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=54</link>
     <description>¡Hola y bienvenidos a el quincuagésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados 
-    • Previa Tour de Francia
+
+    • Previa Tour
     </description>
-      <pubDate>Mon, 17 Jun 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-06-17_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://www.sport.es/bicio/wp-content/uploads/2024/05/Movistar-Team-1.jpg" />
-    </item>
+    <pubDate>Mon, 17 Jun 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-06-17_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://www.sport.es/bicio/wp-content/uploads/2024/05/Movistar-Team-1.jpg" />
+  </item>
   <item>
     <title>2x19 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio53.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=53</link>
     <description>¡Hola y bienvenidos a el quincuagésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados Criterium Dauphine
-    • Previa Tour de Francia
+
+    • Resultados Dauphine
+    • Previa Tour
     </description>
-      <pubDate>Mon, 10 Jun 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-06-10_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/d/d9/2020_Tour_de_France_Stage_18_peloton.jpg" />
-    </item>
+    <pubDate>Mon, 10 Jun 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-06-10_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/d/d9/2020_Tour_de_France_Stage_18_peloton.jpg" />
+  </item>
   <item>
     <title>2x18 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio52.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=52</link>
     <description>¡Hola y bienvenidos a el quincuagésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados Criterium Dauphine
-    • Previa Vuelta a Suiza 
+
+    • Resultados Dauphine
+    • Previa Vuelta Suiza
     </description>
-      <pubDate>Mon, 03 Jun 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-06-03_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://estaticos-cdn.prensaiberica.es/clip/691ae317-3257-4842-ac95-41570fc823d4_16-9-discover-aspect-ratio_default_0.webp" />
-    </item>
+    <pubDate>Mon, 03 Jun 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-06-03_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://estaticos-cdn.prensaiberica.es/clip/691ae317-3257-4842-ac95-41570fc823d4_16-9-discover-aspect-ratio_default_0.webp" />
+  </item>
   <item>
     <title>2x17 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio51.html</link>
-    <description>¡Hola y bienvenidos a el quincuagésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Fin Giro de Italia
+    <link>https://cuacfm.org/globeros/episodio.html?id=51</link>
+    <description>¡Hola y bienvenidos a el quincuagésimoepisodio episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Giro de Italia
     </description>
-      <pubDate>Mon, 27 May 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-05-27_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://live.staticflickr.com/2214/1753164112_ca2286e761_b.jpg" />
-    </item>
-   <item>
+    <pubDate>Mon, 27 May 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-05-27_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://live.staticflickr.com/2214/1753164112_ca2286e761_b.jpg" />
+  </item>
+  <item>
     <title>2x16 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio50.html</link>
-    <description>¡Hola y bienvenidos a el quincuagésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados Vuelta Burgos Femeniana
+    <link>https://cuacfm.org/globeros/episodio.html?id=50</link>
+    <description>¡Hola y bienvenidos a el quincuagésimoepisodio episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados la Vuelta a Burgos femenina
     • Resultados Giro de Italia
     </description>
-      <pubDate>Mon, 20 May 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-05-20_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://s3.ppllstatics.com/burgosconecta/www/multimedia/2024/05/18/ciclismo-burgos-vuelta-k1fD-U220188195606tcF-1200x840@Burgosconecta.jpg" />
-    </item>
-   <item>
+    <pubDate>Mon, 20 May 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-05-20_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://s3.ppllstatics.com/burgosconecta/www/multimedia/2024/05/18/ciclismo-burgos-vuelta-k1fD-U220188195606tcF-1200x840@Burgosconecta.jpg" />
+  </item>
+  <item>
     <title>2x15 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio49.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=49</link>
     <description>¡Hola y bienvenidos a el cuadragésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Resultados Itzulia Femeniana
+
+    • Resultados la Itzulia femenina
     • Resultados Giro de Italia
     </description>
-      <pubDate>Mon, 13 May 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-05-13_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cdn.mos.cms.futurecdn.net/fvDhCyZ9XTUuU2aWsohzTG.jpg" />
-    </item>
+    <pubDate>Mon, 13 May 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-05-13_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cdn.mos.cms.futurecdn.net/fvDhCyZ9XTUuU2aWsohzTG.jpg" />
+  </item>
   <item>
     <title>2x14 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio48.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=48</link>
     <description>¡Hola y bienvenidos a el cuadragésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Repaso carreras inicio temporada
-    • Resultados Vuelta Femeniana
+
+    • Resultados la Vuelta femenina
     • Resultados Giro de Italia
     </description>
-      <pubDate>Mon, 06 May 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-05-06_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Vwd2s2MjMxNTMwNi13aWtpbWVkaWEtaW1hZ2Uta293bWlzOGQuanBn.jpg" />
-    </item>
+    <pubDate>Mon, 06 May 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-05-06_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Vwd2s2MjMxNTMwNi13aWtpbWVkaWEtaW1hZ2Uta293bWlzOGQuanBn.jpg" />
+  </item>
   <item>
     <title>2x13 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio47.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=47</link>
     <description>¡Hola y bienvenidos a el cuadragésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
-    • Resultados Vuelta Femeniana
-    • Resultados Tour Romandía
+    • Resultados la Vuelta femenina
+    • Resultados Tour de Romandía
     • Previa Giro de Italia
     </description>
-      <pubDate>Mon, 29 Apr 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-04-29_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://live.staticflickr.com/65535/52925249441_4c286460d8_b.jpg" />
-    </item>
+    <pubDate>Mon, 29 Apr 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-04-29_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://live.staticflickr.com/65535/52925249441_4c286460d8_b.jpg" />
+  </item>
   <item>
     <title>2x12 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio46.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=46</link>
     <description>¡Hola y bienvenidos a el cuadragésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-    • Entrevista a Felipe Vazquez de MyTopBike 
+
+    • Entrevista a Felipe Vazquez de MyTopBike
     • Repaso carreras inicio temporada
     • Resultados Lieja-Bastoña-Lieja
     • Resultados Flecha Valona
-    • Resultados la Vuelta Femenina
+    • Previa la Vuelta Femenina
     </description>
-      <pubDate>Mon, 22 Apr 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-04-22_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://c.pxhere.com/photos/5d/fa/bike_girls_girl_gent_belgium_street_at_home_city-546484.jpg!d" />
-    </item>
+    <pubDate>Mon, 22 Apr 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-04-22_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://c.pxhere.com/photos/5d/fa/bike_girls_girl_gent_belgium_street_at_home_city-546484.jpg!d" />
+  </item>
   <item>
     <title>2x11 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio45.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=45</link>
     <description>¡Hola y bienvenidos a el cuadragésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
     • Resultados Amstel Gold Race
     • Previa Lieja-Bastoña-Lieja
     • Previa Flecha Valona
     </description>
-      <pubDate>Mon, 15 Apr 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-04-15_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/a/ad/2019_Amstel_Gold_Race_100.jpg" />
-    </item>
+    <pubDate>Mon, 15 Apr 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-04-15_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/a/ad/2019_Amstel_Gold_Race_100.jpg" />
+  </item>
   <item>
     <title>2x10 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio44.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=44</link>
     <description>¡Hola y bienvenidos a el cuadragésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
     • Resultados Itzulia
     • Resultados París-Roubaix
     • Previa Amstel Gold Race
     </description>
-      <pubDate>Mon, 08 Apr 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-04-08_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://media.snl.no/media/200573/standard_compressed_Paris-Roubaix_2021_KM39.jpeg" />
-    </item>
+    <pubDate>Mon, 08 Apr 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-04-08_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://media.snl.no/media/200573/standard_compressed_Paris-Roubaix_2021_KM39.jpeg" />
+  </item>
   <item>
     <title>2x09 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio43.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=43</link>
     <description>¡Hola y bienvenidos a el cuadragésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
     • Resultados a través de Flandes
     • Resultados Tour de Flandes
     • Previa Itzulia
     </description>
-      <pubDate>Mon, 01 Apr 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-04-01_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://www.rawcyclingmag.com/wp-content/uploads/2017/08/IMG_1309-1.jpg" />
-    </item>
+    <pubDate>Mon, 01 Apr 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-04-01_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://www.rawcyclingmag.com/wp-content/uploads/2017/08/IMG_1309-1.jpg" />
+  </item>
   <item>
     <title>2x08 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio42.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=42</link>
     <description>¡Hola y bienvenidos a el cuadragésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
     • Resultados Volta Catalunya
     • Resultados Gante Wevelgem
     • Resultados a través de Flandes
     • Resultados trofeo Coppi Bartali
     </description>
-      <pubDate>Mon, 25 Mar 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-03-25_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://static.motor.es/fotos-diccionario/2022/08//carril-bici_1659715680.jpg" />
-    </item>
+    <pubDate>Mon, 25 Mar 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-03-25_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://static.motor.es/fotos-diccionario/2022/08//carril-bici_1659715680.jpg" />
+  </item>
   <item>
     <title>2x07 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio41.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=41</link>
     <description>¡Hola y bienvenidos a el cuadragésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
-    • Resultados Milan - San Remo
-    • Resultados trofeo Alfredo Binda
+    • Resultados París Niza y Tirreno Adriático
+    • Resultados Alfredo Binda
     </description>
-      <pubDate>Mon, 18 Mar 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-03-18_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://www.rawcyclingmag.com/wp-content/uploads/2020/02/77A2904.jpg" />
-    </item>
+    <pubDate>Mon, 18 Mar 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-03-18_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://www.rawcyclingmag.com/wp-content/uploads/2020/02/77A2904.jpg" />
+  </item>
   <item>
     <title>2x06 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio40.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=40</link>
     <description>¡Hola y bienvenidos a el cuadragésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
     • Resultados París Niza y Tirreno Adriático
     • Rumore rumore
     </description>
-      <pubDate>Mon, 11 Mar 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-03-11_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019_Milan-Sanremo.jpg/1599px-2019_Milan-Sanremo.jpg?20190330171315" />
-    </item>
+    <pubDate>Mon, 11 Mar 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-03-11_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019_Milan-Sanremo.jpg/1599px-2019_Milan-Sanremo.jpg?20190330171315" />
+  </item>
   <item>
     <title>2x05 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio39.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=39</link>
     <description>¡Hola y bienvenidos a el trigésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
-    • Strade Bianche 
+    • Strade Bianche
     • Recorrido París Niza y Tirreno Adriático
     • Rumore rumore
     </description>
-      <pubDate>Mon, 04 Mar 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-03-04_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://c.pxhere.com/photos/70/ac/hybrid_bike_hybrid_bicycles_classic_bike_classic_smile_bike_smile_domingo-1364004.jpg!d" />
-    </item>
+    <pubDate>Mon, 04 Mar 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-03-04_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://c.pxhere.com/photos/70/ac/hybrid_bike_hybrid_bicycles_classic_bike_classic_smile_bike_smile_domingo-1364004.jpg!d" />
+  </item>
   <item>
     <title>2x04 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio38.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=38</link>
     <description>¡Hola y bienvenidos a el trigésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
     • O gran camiño: resultados
     • Rumore rumore
     </description>
-      <pubDate>Mon, 26 Feb 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-02-26_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://c.pxhere.com/photos/c4/55/bicycle_bike_cyclist_female_healthy_hobby_outdoors_pleated_skirt-1068638.jpg!d" />
-    </item>
+    <pubDate>Mon, 26 Feb 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-02-26_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://c.pxhere.com/photos/c4/55/bicycle_bike_cyclist_female_healthy_hobby_outdoors_pleated_skirt-1068638.jpg!d" />
+  </item>
   <item>
     <title>2x03 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio37.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=37</link>
     <description>¡Hola y bienvenidos a el trigésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
     • O gran camiño: la crono de A Coruña
     • Rumore rumore
     </description>
-      <pubDate>Mon, 19 Feb 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-02-19_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://felixwong.com/gallery/images/o/o-gran-camino-stage-2-2023.jpg" />
-    </item>
+    <pubDate>Mon, 19 Feb 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-02-19_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://felixwong.com/gallery/images/o/o-gran-camino-stage-2-2023.jpg" />
+  </item>
   <item>
     <title>2x02 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio36.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=36</link>
     <description>¡Hola y bienvenidos a el trigésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
     • Repaso carreras inicio temporada
     • Historia: el Tour de los Alpes Marítimos
     • O gran camiño: la crono de A Coruña
     • Rumore rumore
     </description>
-      <pubDate>Mon, 12 Feb 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-02-12_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://c.pxhere.com/photos/29/a8/child_bmx_round_bikepark_skate_park-757704.jpg!d" />
-    </item>
+    <pubDate>Mon, 12 Feb 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-02-12_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://c.pxhere.com/photos/29/a8/child_bmx_round_bikepark_skate_park-757704.jpg!d" />
+  </item>
   <item>
     <title>2x01 De los Adoquines a los Alpes</title>
-    <link>https://cuacfm.org/globeros/episodio35.html</link>
+    <link>https://cuacfm.org/globeros/episodio.html?id=35</link>
     <description>¡Hola y bienvenidos a el trigésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Presentación nueva temporada
     • Repaso carreras 2024
-    • Apuestas Alpoquines 2024
+    • Quiniela de campeones
     • Rumore rumore
     </description>
-      <pubDate>Mon, 05 Feb 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2024-02-05_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://c.pxhere.com/photos/7a/a7/bike_winter_lake_snow_frozen_wintry-1208260.jpg!d" />
-    </item>
+    <pubDate>Mon, 05 Feb 2024 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2024-02-05_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://c.pxhere.com/photos/7a/a7/bike_winter_lake_snow_frozen_wintry-1208260.jpg!d" />
+  </item>
   <item>
-      <title>1x34 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio34.html</link>
-      <description>¡Hola y bienvenidos a el trigésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-• Presentación del Tour 2024
-• Repaso carreras 2023
-• Premios Alpoquines 2023
-• Rumore rumore
-</description>
-      <pubDate>Mon, 30 Oct 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-30_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://c.pxhere.com/photos/f7/c6/cyclists_race_tour_de_france_paris_stage_competition_sport_biking-759686.jpg!d" />
-    </item>
+    <title>1x34 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=34</link>
+    <description>¡Hola y bienvenidos a el trigésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Presentación Tour 2024
+    • Repaso carreras  2023
+    • Premios alposuqines
+    • Rumore rumore
+    </description>
+    <pubDate>Mon, 30 Oct 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-30_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://c.pxhere.com/photos/f7/c6/cyclists_race_tour_de_france_paris_stage_competition_sport_biking-759686.jpg!d" />
+  </item>
   <item>
-      <title>1x33 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio33.html</link>
-      <description>¡Hola y bienvenidos a el trigésimo tercero episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-• Presentación del Giro 2024
-• Repaso carreras de una semana 2023
-• Repaso carreras de tres semanas 2023
-• Plantillas 2024
-• Rumore rumore
-</description>
-      <pubDate>Mon, 23 Oct 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-23_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://images.squarespace-cdn.com/content/v1/52f19869e4b0fcddda26e816/1437130221543-M06I96LOWP0DZW77E13O/Camino+de+Santiago+-+Copyright+Ivan+Blanco+HR+-6444.jpg?format=1000w" />
-    </item>
-   <item>
-      <title>1x32 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio32.html</link>
-      <description>¡Hola y bienvenidos a el trigésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-• Repaso carreras de un día 2023
-• Plantillas 2024
-• Rumore rumore
-</description>
-      <pubDate>Mon, 16 Oct 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-16_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://www.navarratelevision.es/media/IMG/2023/AC987E95-0975-7620-701962FF7ACAF1DA.JPG" />
-    </item>
+    <title>1x33 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=33</link>
+    <description>¡Hola y bienvenidos a el trigésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Presentación Giro 2024
+    • Repaso carreras de una semana 2023
+    • Repaso carreras de tres semanas 2023
+    • Plantillas 2024
+    • Rumore rumore
+    </description>
+    <pubDate>Mon, 23 Oct 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-23_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://images.squarespace-cdn.com/content/v1/52f19869e4b0fcddda26e816/1437130221543-M06I96LOWP0DZW77E13O/Camino+de+Santiago+-+Copyright+Ivan+Blanco+HR+-6444.jpg?format=1000w" />
+  </item>
   <item>
-      <title>1x31 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio31.html</link>
-      <description>¡Hola y bienvenidos a el trigésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-• Resultados Campeonato del mundo de gravel
-• Resultados París-Tours
-• Resultados Giro Lombardia
-• Rumore rumore
-</description>
-      <pubDate>Mon, 9 Oct 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-09_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://esmtb.com/wp-content/uploads/2023/09/ucigravel.jpg" />
-    </item>
+    <title>1x32 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=32</link>
+    <description>¡Hola y bienvenidos a el trigésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Repaso carreras de un día 2023
+    • Plantillas 2024
+    • Rumore rumore
+    </description>
+    <pubDate>Mon, 16 Oct 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-16_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://www.navarratelevision.es/media/IMG/2023/AC987E95-0975-7620-701962FF7ACAF1DA.JPG" />
+  </item>
   <item>
-      <title>1x30 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio30.html</link>
-      <description>¡Hola y bienvenidos a el trigésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-• Resultados Tour Croacia
-• Resultados Giro de Emilia
-• Rumore rumore
-</description>
-      <pubDate>Mon, 2 Oct 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-02_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/2/27/Tour-of-Croatia-2015-01-roberta-f.jpg" />
-    </item>
+    <title>1x31 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=31</link>
+    <description>¡Hola y bienvenidos a el trigésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados mundial de gravel
+    • Resultados París-Tours
+    • Resultados del Giro de Lombardía
+    • Rumore rumore
+    </description>
+    <pubDate>Mon, 09 Oct 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-09_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://esmtb.com/wp-content/uploads/2023/09/ucigravel.jpg" />
+  </item>
   <item>
-      <title>1x29 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio29.html</link>
-      <description>¡Hola y bienvenidos a el vigésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-• Rumore rumore
-</description>
-      <pubDate>Mon, 25 Sep 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-09-25_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://indemnizacionesporaccidente.com/wp-content/uploads/2020/10/Como-adelantar-a-un-ciclista.jpg" />
-    </item>
+    <title>1x30 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=30</link>
+    <description>¡Hola y bienvenidos a el trigésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Tour de Croacia
+    • Resultados del Giro de la Emilia
+    • Rumore rumore
+    </description>
+    <pubDate>Mon, 02 Oct 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-10-02_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/2/27/Tour-of-Croatia-2015-01-roberta-f.jpg" />
+  </item>
   <item>
-      <title>1x28 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio28.html</link>
-      <description>¡Hola y bienvenidos a el vigésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-• Resultados Vuelta a España
-</description>
-      <pubDate>Mon, 18 Sep 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-09-18_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://www.ciclismoafondo.es/uploads/s1/12/39/41/80/jonas-vingegaard-sepp-kuss-y-primoz-roglic-con-sus-maillots-de-ganadores-de-las-tres-grandes-vueltas.jpeg" />
-    </item>
+    <title>1x29 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=29</link>
+    <description>¡Hola y bienvenidos a el vigésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Rumore rumore
+    </description>
+    <pubDate>Mon, 25 Sep 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-09-25_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://indemnizacionesporaccidente.com/wp-content/uploads/2020/10/Como-adelantar-a-un-ciclista.jpg" />
+  </item>
   <item>
-      <title>1x27 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio27.html</link>
-      <description>¡Hola y bienvenidos a el vigésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-• Despedida de Van Vleuten
-• Resultados otras competiciones
-• Resultados Vuelta a España
-</description>
-      <pubDate>Mon, 11 Sep 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-09-11_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tadej_Pogacar_Jonas_Vingegaard_Sepp_Kuss.jpg/1024px-Tadej_Pogacar_Jonas_Vingegaard_Sepp_Kuss.jpg" />
-    </item>
+    <title>1x28 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=28</link>
+    <description>¡Hola y bienvenidos a el vigésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Vuelta a España
+    </description>
+    <pubDate>Mon, 18 Sep 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-09-18_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://www.ciclismoafondo.es/uploads/s1/12/39/41/80/jonas-vingegaard-sepp-kuss-y-primoz-roglic-con-sus-maillots-de-ganadores-de-las-tres-grandes-vueltas.jpeg" />
+  </item>
   <item>
-      <title>1x26 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio26.html</link>
-      <description>¡Hola y bienvenidos a el vigésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    <title>1x27 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=27</link>
+    <description>¡Hola y bienvenidos a el vigésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
 
-• Resultados Vuelta a España
-</description>
-      <pubDate>Mon, 04 Sep 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-09-04_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://www.cronicasdesiyasa.com/wp-content/uploads/2021/04/fundacion.jpg" />
-    </item>
+    • Despedida Van Vleuten
+    • Resultados otras competiciones
+    • Resultados Vuelta a España
+    </description>
+    <pubDate>Mon, 11 Sep 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-09-11_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tadej_Pogacar_Jonas_Vingegaard_Sepp_Kuss.jpg/1024px-Tadej_Pogacar_Jonas_Vingegaard_Sepp_Kuss.jpg" />
+  </item>
   <item>
-      <title>1x25 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio25.html</link>
-      <description>¡Hola y bienvenidos a el vigésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    <title>1x26 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=26</link>
+    <description>¡Hola y bienvenidos a el vigésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
 
-• Resultados Tour de Noruega
-• Resultados Tour Benelux
-• Resultados Vuelta a España
-</description>
-      <pubDate>Mon, 28 Aug 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-08-28_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cuacfm.org/globeros/images/vuelta-barceola-sagrada-familia.jpg" />
-    </item>
+    • Resultados Vuelta a España
+    </description>
+    <pubDate>Mon, 04 Sep 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-09-04_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://www.cronicasdesiyasa.com/wp-content/uploads/2021/04/fundacion.jpg" />
+  </item>
   <item>
-      <title>1x24 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio24.html</link>
-      <description>¡Hola y bienvenidos a el vigésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+    <title>1x25 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=25</link>
+    <description>¡Hola y bienvenidos a el vigésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
 
-• Resultados Vuelta a Burgos
-
-• Recorrido de "la Vuelta"</description>
-      <pubDate>Mon, 21 Aug 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-08-21_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cdn8.picryl.com/photo/1979/12/31/vuelta-ciclista-a-espana-1979-material-grafico-da40ea-1024.jpg" />
-    </item>
+    • Resultados Tour de Noruega femenino
+    • Resultados Tour Benelux
+    • Resultados Vuelta a España
+    </description>
+    <pubDate>Mon, 28 Aug 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-08-28_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="images/vuelta-barceola-sagrada-familia.jpg" />
+  </item>
   <item>
-      <title>1x23 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio23.html</link>
-      <description>¡Hola y bienvenidos a el vigésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados mundial UCI femenino
-
-• Recorrido de "la Vuelta"</description>
-      <pubDate>Mon, 14 Aug 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-08-14_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://i0.hippopx.com/photos/645/216/837/bicycle-bike-old-bicycles-preview.jpg" />
-    </item>
-    <item>
-      <title>1x22 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio22.html</link>
-      <description>¡Hola y bienvenidos a el vigésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados mundial UCI masculino
-
-• Historia "la Vuelta"</description>
-      <pubDate>Mon, 8 Aug 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-08-07_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://c1.wallpaperflare.com/preview/523/169/111/uci-road-world-championships-cycliste-uci-bergen-bicycle-road-racing-event.jpg" />
-    </item>
-    <item>
-      <title>1x21 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio21.html</link>
-      <description>¡Hola y bienvenidos a el vigésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados Tour femenino
-
-• Previa mundial UCI</description>
-      <pubDate>Mon, 31 Jul 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-31_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/5/51/20180925_UCI_Road_World_Championships_Innsbruck_Women_Elite_ITT_Annemiek_van_Vleuten_850_9507.jpg" />
-    </item>
-    <item>
-      <title>1x20 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio20.html</link>
-      <description>¡Hola y bienvenidos a el vigésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados Tour femenino
-
-• Resultados Tour de Francia</description>
-      <pubDate>Mon, 24 Jul 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-24_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://dorsal51.files.wordpress.com/2013/07/podium-tdf.jpg?w=1024" />
-    </item>
-    <item>
-      <title>1x19 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio19.html</link>
-      <description>¡Hola y bienvenidos a el decimonoveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Previo Tour femenino
-
-• Resultados Tour de Francia</description>
-      <pubDate>Mon, 17 Jul 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-17_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://p1.pxfuel.com/preview/226/679/590/touring-cycling-biking-bike-riding.jpg" />
-    </item>
-    <item>
-      <title>1x18 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio18.html</link>
-      <description>¡Hola y bienvenidos a el decimoctavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados Giro Donne
-
-• Resultados Tour de Francia</description>
-      <pubDate>Mon, 10 Jul 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-10_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://d2p6e6u75xmxt8.cloudfront.net/6/2020/11/Raymond-Poulidor-Jacques-Anquetil-profimedia-0068091828.jpg#?s_aid=53d49c5a-f8da-4b58-a137-091457dfe31e_572_0" />
-    </item>
-    <item>
-      <title>1x17 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio17.html</link>
-      <description>¡Hola y bienvenidos a el decimoséptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados Giro Donne
-
-• Resultados Tour de Francia
-      </description>
-      <pubDate>Mon, 3 Jul 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-03_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cdn.pixabay.com/photo/2020/03/03/22/53/cyclists-4900032_1280.jpg" />
-    </item>
-    <item>
-      <title>1x16 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio16.html</link>
-      <description>¡Hola y bienvenidos a el decimosexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados Vuelta a Suiza
-
-• Resultados Vuelta a Eslovenia
-
-• Resultados Vuelta a Bélgica
-
-• Historia: Tour de Francia
-
-• Tercera semana del Tour de Francia 2023
-      </description>
-      <pubDate>Mon, 19 Jun 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-06-19_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cdn.pixabay.com/photo/2020/01/17/21/01/zermatt-4774038_1280.jpg" />
-    </item>
-    <item>
-      <title>1x15 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio15.html</link>
-      <description>¡Hola y bienvenidos a el decimoquinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados Dauphiné
-
-• Segunda semana del Tour de Francia 2023
-      </description>
-      <pubDate>Mon, 12 Jun 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-06-12_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://c1.wallpaperflare.com/preview/312/798/494/tour-de-france-cycling-advertising.jpg" />
-    </item>
-    <item>
-      <title>1x14 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio14.html</link>
-      <description>¡Hola y bienvenidos a el décimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados Dauphiné
-
-• Historia de patrocinadores de ciclismo
-
-• Primera semana del Tour de Francia 2023
-      </description>
-      <pubDate>Mon, 05 Jun 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-06-05_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/3/36/Charly_Mottet_-_Dauphin%C3%A9_1988.jpg" />
-    </item>
-     <item>
-      <title>1x13 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio13.html</link>
-      <description>¡Hola y bienvenidos a el decimotercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados Giro d'Italia
-      </description>
-      <pubDate>Mon, 29 May 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-29_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cdn.pixabay.com/photo/2017/05/11/13/35/bicycle-2304183_1280.jpg" />
-    </item>
-    <item>
-      <title>1x12 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio12.html</link>
-      <description>¡Hola y bienvenidos a el duodécimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados Giro d'Italia
-• Resultados Vuelta a Burgos femenina
-      </description>
-      <pubDate>Mon, 22 May 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-22_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://i.ytimg.com/vi/cFfRx7BiYfg/maxresdefault.jpg" />
-    </item>
-    <item>
-      <title>1x11 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio11.html</link>
-      <description>¡Hola y bienvenidos a el undécimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados Giro d'Italia
-      </description>
-      <pubDate>Mon, 15 May 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-15_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/4/4c/20180927_UCI_Road_World_Championships_Innsbruck_Men_Juniors_Road_Race_Remco_Evenepoel_850_0524.jpg" />
-    </item>
-    <item>
-      <title>1x10 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio10.html</link>
-      <description>¡Hola y bienvenidos a el décimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados de la Vuelta Femenina.
-
-• Resultados Giro d'Italia</description>
-      <pubDate>Mon, 08 May 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-08_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://movistarteam.com/wp-content/uploads/2023/05/GettyImages-1488138987-1380x920.jpeg" />
-    </item>
-    <item>
-      <title>1x9 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio9.html</link>
-      <description>¡Hola y bienvenidos a el noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados de competiciones.
-
-• Resultados Tour Romandía
-
-• Previa Giro d'Italia</description>
-      <pubDate>Mon, 01 May 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-01_19-00-00_de-los-adoquines-los-alpes.mp3" length="82076929" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/7/7d/Peloton_Tour_de_Romandie_2008.jpg" />
-    </item>
-    <item>
-      <title>1x8 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio8.html</link>
-      <description>¡Hola y bienvenidos a el octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados de competiciones.
-
-• Previa Tour Romandía
-
-• Previa Giro d'Italia</description>
-      <pubDate>Mon, 24 Apr 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-04-24_19-00-00_de-los-adoquines-los-alpes.mp3" length="82079437" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/f/f2/20220424_Liege_Bastogne_Liege199.jpg" />
-    </item>
-    <item>
-      <title>1x7 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio7.html</link>
-      <description>¡Hola y bienvenidos a el séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados de competiciones.
-
-• Amstel Gold Race
-
-• Lieja-Bastoña-Lieja y Flecha Valona
-
-• Historia del ciclismo: Los lagos de Covadonga
-
-• Consejos para comprar bici</description>
-      <pubDate>Mon, 17 Apr 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-04-17_19-00-00_de-los-adoquines-los-alpes.mp3" length="82079437" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/0/06/Amstel_Gold_Race_2013%2C_Terminator.jpg" />
-    </item>
-    <item>
-      <title>1x6 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio6.html</link>
-      <description>¡Hola y bienvenidos a el sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados de competiciones.
-
-• Paris-Roubaix
-
-• Historia del ciclismo: Luis Ocaña
-
-• Consejos para comprar bici</description>
-      <pubDate>Mon, 10 Apr 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-04-10_19-00-00_de-los-adoquines-los-alpes.mp3" length="82078183" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg/1599px-Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg?20140413153616"  />
-    </item>
-    <item>
-      <title>1x5 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio5.html</link>
-      <description>¡Hola y bienvenidos a el quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados de competiciones.
-
-• Paris-Roubaix
-
-• La belle EPOque (II)
-
-• Consejos para salir en semana santa en bici</description>
-      <pubDate>Mon, 03 Apr 2023 17:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-04-03_19-00-00_de-los-adoquines-los-alpes.mp3" length="82078183" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2164CancellaraChavanel_rvv2011.jpg/1200px-2164CancellaraChavanel_rvv2011.jpg" />
-    </item>
-    <item>
-      <title>1x4 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio4.html</link>
-      <description>¡Hola y bienvenidos a el cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados de competiciones.
-
-• Tour de Flandes
-
-• La crono del Tour '89
-
-• Consejos de compra de bicis</description>
-      <pubDate>Mon, 27 Mar 2023 20:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-03-27_22-00-00_de-los-adoquines-los-alpes.mp3" length="82076929" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://live.staticflickr.com/2859/34139813432_95bee48100_b.jpg" />
-    </item>
-    <item>
-      <title>1x3 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio3.html</link>
-      <description>¡Hola y bienvenidos a el tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados de Milan-San Remo.
-
-• Inicio de la temporada belga
-
-• El Mortirolo del Giro '94
-
-• Ruta hasta el Bens. Dificultad: 🎈🎈</description>
-      <pubDate>Mon, 20 Mar 2023 18:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-03-20_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077556" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/5/50/Peloton%2C_Milan-Sanremo_2016%2C_Savona.jpg"  />
-    </item>
-    <item>
-      <title>1x2 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio2.html</link>
-      <description>¡Hola y bienvenidos a el segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados de Paris-Niza.
-
-• Resultados de Tirreno-Adriatico
-
-• Presentación de Milán-San Remo
-
-• La belle EPOque
-
-• Presentamos komoot para crear rutas
-
-• Ruta hasta el faro de Mera. Dificultad: 🎈🎈</description>
-      <pubDate>Mon, 13 Mar 2023 18:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-03-13_19-00-00_de-los-adoquines-los-alpes.mp3" length="82079437" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/6/68/Paris-Nice_2011_-_%C3%A9tape_4_-_Thomas_Voeckler.jpg"  />
-    </item>
-    <item>
-      <title>1x1 De los Adoquines a los Alpes</title>
-      <link>https://cuacfm.org/globeros/episodio1.html</link>
-      <description>¡Hola y bienvenidos a el primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
-
-• Resultados de Strade Bianche.
-
-• Resultados de Paris-Niza.
-
-• Resultados de Tirreno-Adriatico
-
-• Ruta hasta Cecebre. Dificultad: 🎈</description>
-      <pubDate>Mon, 06 Mar 2023 18:00:00 +0000</pubDate>
-      <enclosure url="https://cuacfm.org/radioco/recordings/2023-03-06_19-00-00_de-los-adoquines-los-alpes.mp3" length="82078183" type="audio/mpeg"/>
-      <itunes:subtitle/>
-      <itunes:summary/>
-      <itunes:duration>0:01:00</itunes:duration>
-      <itunes:image href="https://cdn.cycle-travel.nl/wp-content/uploads/2022/10/CORVOS_00032930-094.jpg" />
-    </item>
+    <title>1x24 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=24</link>
+    <description>¡Hola y bienvenidos a el vigésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Vuelta a Burgos
+    • Recorrido de "la Vuelta"
+    </description>
+    <pubDate>Mon, 21 Aug 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-08-21_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cdn8.picryl.com/photo/1979/12/31/vuelta-ciclista-a-espana-1979-material-grafico-da40ea-1024.jpg" />
+  </item>
+  <item>
+    <title>1x23 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=23</link>
+    <description>¡Hola y bienvenidos a el vigésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados mundial femenino
+    • Recorrido de "la Vuelta"
+    </description>
+    <pubDate>Mon, 14 Aug 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-08-14_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://i0.hippopx.com/photos/645/216/837/bicycle-bike-old-bicycles-preview.jpg" />
+  </item>
+  <item>
+    <title>1x22 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=22</link>
+    <description>¡Hola y bienvenidos a el vigésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados mundial masculino
+    • Historia de "la Vuelta"
+    </description>
+    <pubDate>Mon, 07 Aug 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-08-07_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://c1.wallpaperflare.com/preview/523/169/111/uci-road-world-championships-cycliste-uci-bergen-bicycle-road-racing-event.jpg" />
+  </item>
+  <item>
+    <title>1x21 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=21</link>
+    <description>¡Hola y bienvenidos a el vigésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Tour femenino
+    • Previa mundial UCI
+    </description>
+    <pubDate>Mon, 31 Jul 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-31_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/5/51/20180925_UCI_Road_World_Championships_Innsbruck_Women_Elite_ITT_Annemiek_van_Vleuten_850_9507.jpg" />
+  </item>
+  <item>
+    <title>1x20 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=20</link>
+    <description>¡Hola y bienvenidos a el vigésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Tour femenino
+    • Resultados Tour de Francia
+    </description>
+    <pubDate>Mon, 24 Jul 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-24_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://dorsal51.files.wordpress.com/2013/07/podium-tdf.jpg?w=1024" />
+  </item>
+  <item>
+    <title>1x19 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=19</link>
+    <description>¡Hola y bienvenidos a el decimonoveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Previo Tour femenino
+    • Resultados Tour de Francia
+    </description>
+    <pubDate>Mon, 17 Jul 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-17_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://p1.pxfuel.com/preview/226/679/590/touring-cycling-biking-bike-riding.jpg" />
+  </item>
+  <item>
+    <title>1x18 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=18</link>
+    <description>¡Hola y bienvenidos a el decimoctavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Giro Donne
+    • Resultados Tour de Francia
+    </description>
+    <pubDate>Mon, 10 Jul 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-10_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://d2p6e6u75xmxt8.cloudfront.net/6/2020/11/Raymond-Poulidor-Jacques-Anquetil-profimedia-0068091828.jpg#?s_aid=53d49c5a-f8da-4b58-a137-091457dfe31e_572_0" />
+  </item>
+  <item>
+    <title>1x17 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=17</link>
+    <description>¡Hola y bienvenidos a el decimoséptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Giro Donne
+    • Resultados Tour de Francia
+    </description>
+    <pubDate>Mon, 03 Jul 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-07-03_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cdn.pixabay.com/photo/2020/03/03/22/53/cyclists-4900032_1280.jpg" />
+  </item>
+  <item>
+    <title>1x16 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=16</link>
+    <description>¡Hola y bienvenidos a el decimosexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Vuelta a Suiza
+    • Resultados Vuelta a Eslovenia
+    • Resultados Vuelta a Bélgica
+    • Historia: Tour de Francia
+    • Tercera semana del Tour de Francia 2023
+    </description>
+    <pubDate>Mon, 19 Jun 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-06-19_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cdn.pixabay.com/photo/2020/01/17/21/01/zermatt-4774038_1280.jpg" />
+  </item>
+  <item>
+    <title>1x15 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=15</link>
+    <description>¡Hola y bienvenidos a el decimoquinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Dauphiné
+    • Segunda semana del Tour de Francia 2023
+    </description>
+    <pubDate>Mon, 12 Jun 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-06-12_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://c1.wallpaperflare.com/preview/312/798/494/tour-de-france-cycling-advertising.jpg" />
+  </item>
+  <item>
+    <title>1x14 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=14</link>
+    <description>¡Hola y bienvenidos a el decimocuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Dauphiné
+    • Historia de patrocinadores de ciclismo
+    • Primera semana del Tour de Francia 2023
+    </description>
+    <pubDate>Mon, 05 Jun 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-06-05_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/3/36/Charly_Mottet_-_Dauphin%C3%A9_1988.jpg" />
+  </item>
+  <item>
+    <title>1x13 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=13</link>
+    <description>¡Hola y bienvenidos a el decimotercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Giro d'Italia
+    </description>
+    <pubDate>Mon, 22 May 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-29_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cdn.pixabay.com/photo/2017/05/11/13/35/bicycle-2304183_1280.jpg" />
+  </item>
+  <item>
+    <title>1x12 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=12</link>
+    <description>¡Hola y bienvenidos a el duodécimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Giro d'Italia
+    • Vuelta a Burgos femenina
+    </description>
+    <pubDate>Mon, 22 May 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-22_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://i.ytimg.com/vi/cFfRx7BiYfg/maxresdefault.jpg" />
+  </item>
+  <item>
+    <title>1x11 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=11</link>
+    <description>¡Hola y bienvenidos a el décimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados Giro d'Italia
+    </description>
+    <pubDate>Mon, 01 May 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-15_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/4/4c/20180927_UCI_Road_World_Championships_Innsbruck_Men_Juniors_Road_Race_Remco_Evenepoel_850_0524.jpg" />
+  </item>
+  <item>
+    <title>1x10 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=10</link>
+    <description>¡Hola y bienvenidos a el décimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados de la Vuelta Femenina.
+    • Resultados Giro d'Italia
+    </description>
+    <pubDate>Mon, 01 May 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-08_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://movistarteam.com/wp-content/uploads/2023/05/GettyImages-1488138987-1380x920.jpeg" />
+  </item>
+  <item>
+    <title>1x09 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=9</link>
+    <description>¡Hola y bienvenidos a el noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados de competiciones.
+    • Resultados Tour Romandía
+    • Previa Giro d'Italia
+    </description>
+    <pubDate>Mon, 01 May 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-05-01_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/7/7d/Peloton_Tour_de_Romandie_2008.jpg" />
+  </item>
+  <item>
+    <title>1x08 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=8</link>
+    <description>¡Hola y bienvenidos a el octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados de competiciones.
+    • Previa Tour Romandía
+    • Previa Giro d'Italia
+    </description>
+    <pubDate>Mon, 24 Apr 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-04-24_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/f/f2/20220424_Liege_Bastogne_Liege199.jpg" />
+  </item>
+  <item>
+    <title>1x07 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=7</link>
+    <description>¡Hola y bienvenidos a el séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados de competiciones.
+    • Amstel Gold Race
+    • Lieja-Bastoña-Lieja y Flecha Valona
+    • Historia del ciclismo: Los lagos de Covadonga
+    • Consejos para comprar bici
+    </description>
+    <pubDate>Mon, 17 Apr 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-04-17_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/0/06/Amstel_Gold_Race_2013%2C_Terminator.jpg" />
+  </item>
+  <item>
+    <title>1x06 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=6</link>
+    <description>¡Hola y bienvenidos a el sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados de competiciones.
+    • Paris-Roubaix
+    • Historia del ciclismo: Luis Ocaña
+    • Consejos para comprar bici
+    </description>
+    <pubDate>Mon, 10 Apr 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-04-10_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg/1599px-Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg?20140413153616" />
+  </item>
+  <item>
+    <title>1x05 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=5</link>
+    <description>¡Hola y bienvenidos a el quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados de competiciones.
+    • Paris-Roubaix
+    • La belle EPOque (II)
+    • Consejos para salir en semana santa en bici
+    </description>
+    <pubDate>Mon, 03 Apr 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-04-03_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2164CancellaraChavanel_rvv2011.jpg/1200px-2164CancellaraChavanel_rvv2011.jpg" />
+  </item>
+  <item>
+    <title>1x04 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=4</link>
+    <description>¡Hola y bienvenidos a el cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados de competiciones.
+    • Tour de Flandes
+    • La crono del Tour '89
+    • Consejos de compra de bicis
+    </description>
+    <pubDate>Mon, 13 Mar 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-03-27_22-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://live.staticflickr.com/2859/34139813432_95bee48100_b.jpg" />
+  </item>
+  <item>
+    <title>1x03 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=3</link>
+    <description>¡Hola y bienvenidos a el tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados de Milan-San Remo.
+    • Inicio de la temporada belga
+    • El Mortirolo del Giro '94
+    • Ruta hasta el Bens. Dificultad: 🎈🎈
+    </description>
+    <pubDate>Mon, 13 Mar 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-03-20_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/5/50/Peloton%2C_Milan-Sanremo_2016%2C_Savona.jpg" />
+  </item>
+  <item>
+    <title>1x02 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=2</link>
+    <description>¡Hola y bienvenidos a el segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados de Paris-Niza.
+    • Resultados de Tirreno-Adriatico
+    • Presentación de Milán-San Remo
+    • La belle EPOque
+    • Presentamos komoot para crear rutas
+    • Ruta hasta el faro de Mera. Dificultad: 🎈🎈
+    </description>
+    <pubDate>Mon, 13 Mar 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-03-13_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/6/68/Paris-Nice_2011_-_%C3%A9tape_4_-_Thomas_Voeckler.jpg" />
+  </item>
+  <item>
+    <title>1x01 De los Adoquines a los Alpes</title>
+    <link>https://cuacfm.org/globeros/episodio.html?id=1</link>
+    <description>¡Hola y bienvenidos a el primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Resultados de Strade Bianche.
+    • Resultados de Paris-Niza.
+    • Resultados de Tirreno-Adriatico
+    • Ruta hasta Cecebre. Dificultad: 🎈
+    </description>
+    <pubDate>Mon, 06 Mar 2023 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2023-03-06_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cdn.cycle-travel.nl/wp-content/uploads/2022/10/CORVOS_00032930-094.jpg" />
+  </item>
   </channel>
 </rss>

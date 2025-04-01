@@ -1,0 +1,1306 @@
+{
+  "episodes": [
+    {
+      "id": 1,
+      "title": "Episodio 1 - De los adoquines a los Alpes",
+      "date": "Lunes 6 de Marzo 2023",
+      "description": "¡Hola y bienvenidos a el primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados de Strade Bianche.",
+        "Resultados de Paris-Niza.",
+        "Resultados de Tirreno-Adriatico",
+        "Ruta hasta Cecebre. Dificultad: 🎈"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-03-06_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/EhCv6TsHBGk",
+      "has_video": true,
+      "cover_image": "https://cdn.cycle-travel.nl/wp-content/uploads/2022/10/CORVOS_00032930-094.jpg",
+      "has_komoot": true,
+      "komoot_embed": "https://www.komoot.com/tour/1044254041/embed?share_token=a44pJkQObkQfBx2mKbCrHxlkk8teXZOvPO3roCMOHqfUaHf6GH&profile=1"
+    },
+    {
+      "id": 2,
+      "title": "Episodio 2 - De los adoquines a los Alpes",
+      "date": "Lunes 13 de Marzo 2023",
+      "description": "¡Hola y bienvenidos a el segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados de Paris-Niza.",
+        "Resultados de Tirreno-Adriatico",
+        "Presentación de Milán-San Remo",
+        "La belle EPOque",
+        "Presentamos komoot para crear rutas",
+        "Ruta hasta el faro de Mera. Dificultad: 🎈🎈"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-03-13_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/KS0vCwO5PeE",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Paris-Nice_2011_-_%C3%A9tape_4_-_Thomas_Voeckler.jpg",
+      "has_komoot": true,
+      "komoot_embed": "https://www.komoot.com/tour/1047167877/embed?share_token=a2g44idz0HlvsK17P1TOOq5GjGN8RZsIb4zetVUoZML5iqS3eB&profile=1"
+    },
+    {
+      "id": 3,
+      "title": "Episodio 3 - De los adoquines a los Alpes",
+      "date": "Lunes 13 de Marzo 2023",
+      "description": "¡Hola y bienvenidos a el tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados de Milan-San Remo.",
+        "Inicio de la temporada belga",
+        "El Mortirolo del Giro '94",
+        "Ruta hasta el Bens. Dificultad: 🎈🎈"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-03-20_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/07rcWIViq6k",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Peloton%2C_Milan-Sanremo_2016%2C_Savona.jpg",
+      "has_komoot": true,
+      "komoot_embed": "https://www.komoot.com/tour/1047167877/embed?share_token=a2g44idz0HlvsK17P1TOOq5GjGN8RZsIb4zetVUoZML5iqS3eB&profile=1"
+    },
+    {
+      "id": 4,
+      "title": "Episodio 4 - De los adoquines a los Alpes",
+      "date": "Lunes 13 de Marzo 2023",
+      "description": "¡Hola y bienvenidos a el cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados de competiciones.",
+        "Tour de Flandes",
+        "La crono del Tour '89",
+        "Consejos de compra de bicis"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-03-27_22-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/eAGoMOWqKtY",
+      "has_video": true,
+      "cover_image": "https://live.staticflickr.com/2859/34139813432_95bee48100_b.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 5,
+      "title": "Episodio 5 - De los adoquines a los Alpes",
+      "date": "Lunes 3 de Abril 2023",
+      "description": "¡Hola y bienvenidos a el quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados de competiciones.",
+        "Paris-Roubaix",
+        "La belle EPOque (II)",
+        "Consejos para salir en semana santa en bici"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-04-03_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/6IEgcm5meAI",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2164CancellaraChavanel_rvv2011.jpg/1200px-2164CancellaraChavanel_rvv2011.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 6,
+      "title": "Episodio 6 - De los adoquines a los Alpes",
+      "date": "Lunes 10 de Abril 2023",
+      "description": "¡Hola y bienvenidos a el sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados de competiciones.",
+        "Paris-Roubaix",
+        "Historia del ciclismo: Luis Ocaña",
+        "Consejos para comprar bici"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-04-10_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/TxIZM2_ebaY",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg/1599px-Paris_Roubaix_2014_templeuve_tete_de_la_course.jpg?20140413153616",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 7,
+      "title": "Episodio 7 - De los adoquines a los Alpes",
+      "date": "Lunes 17 de Abril 2023",
+      "description": "¡Hola y bienvenidos a el séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados de competiciones.",
+        "Amstel Gold Race",
+        "Lieja-Bastoña-Lieja y Flecha Valona",
+        "Historia del ciclismo: Los lagos de Covadonga",
+        "Consejos para comprar bici"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-04-17_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/HSxKBHhBPx8",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Amstel_Gold_Race_2013%2C_Terminator.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 8,
+      "title": "Episodio 8 - De los adoquines a los Alpes",
+      "date": "Lunes 24 de Abril 2023",
+      "description": "¡Hola y bienvenidos a el octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados de competiciones.",
+        "Previa Tour Romandía",
+        "Previa Giro d'Italia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-04-24_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/M3FqTc8j3Ro",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/20220424_Liege_Bastogne_Liege199.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 9,
+      "title": "Episodio 9 - De los adoquines a los Alpes",
+      "date": "Lunes 1 de Mayo 2023",
+      "description": "¡Hola y bienvenidos a el noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados de competiciones.",
+        "Resultados Tour Romandía",
+        "Previa Giro d'Italia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-05-01_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/E7oSemiywro",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Peloton_Tour_de_Romandie_2008.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 10,
+      "title": "Episodio 10 - De los adoquines a los Alpes",
+      "date": "Lunes 1 de Mayo 2023",
+      "description": "¡Hola y bienvenidos a el décimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados de la Vuelta Femenina.",
+        "Resultados Giro d'Italia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-05-08_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/vOizdrPi8U4",
+      "has_video": true,
+      "cover_image": "https://movistarteam.com/wp-content/uploads/2023/05/GettyImages-1488138987-1380x920.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 11,
+      "title": "Episodio 11 - De los adoquines a los Alpes",
+      "date": "Lunes 1 de Mayo 2023",
+      "description": "¡Hola y bienvenidos a el décimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Giro d'Italia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-05-15_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/Y-zPhtbYRG4",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/20180927_UCI_Road_World_Championships_Innsbruck_Men_Juniors_Road_Race_Remco_Evenepoel_850_0524.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 12,
+      "title": "Episodio 12 - De los adoquines a los Alpes",
+      "date": "Lunes 22 de Mayo 2023",
+      "description": "¡Hola y bienvenidos a el duodécimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Giro d'Italia",
+        "Vuelta a Burgos femenina"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-05-22_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/z7H-MJbzoUc",
+      "has_video": true,
+      "cover_image": "https://i.ytimg.com/vi/cFfRx7BiYfg/maxresdefault.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 13,
+      "title": "Episodio 13 - De los adoquines a los Alpes",
+      "date": "Lunes 22 de Mayo 2023",
+      "description": "¡Hola y bienvenidos a el decimotercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Giro d'Italia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-05-29_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/DlPYWkL5Q_Q",
+      "has_video": true,
+      "cover_image": "https://cdn.pixabay.com/photo/2017/05/11/13/35/bicycle-2304183_1280.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 14,
+      "title": "Episodio 14 - De los adoquines a los Alpes",
+      "date": "Lunes 5 de Junio 2023",
+      "description": "¡Hola y bienvenidos a el decimocuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Dauphiné",
+        "Historia de patrocinadores de ciclismo",
+        "Primera semana del Tour de Francia 2023"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-06-05_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "",
+      "has_video": false,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Charly_Mottet_-_Dauphin%C3%A9_1988.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 15,
+      "title": "Episodio 15 - De los adoquines a los Alpes",
+      "date": "Lunes 12 de Junio 2023",
+      "description": "¡Hola y bienvenidos a el decimoquinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Dauphiné",
+        "Segunda semana del Tour de Francia 2023"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-06-12_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/4yah9Cd6urI",
+      "has_video": true,
+      "cover_image": "https://c1.wallpaperflare.com/preview/312/798/494/tour-de-france-cycling-advertising.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 16,
+      "title": "Episodio 16 - De los adoquines a los Alpes",
+      "date": "Lunes 19 de Junio 2023",
+      "description": "¡Hola y bienvenidos a el decimosexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Vuelta a Suiza",
+        "Resultados Vuelta a Eslovenia",
+        "Resultados Vuelta a Bélgica",
+        "Historia: Tour de Francia",
+        "Tercera semana del Tour de Francia 2023"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-06-19_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/V2laJW0jlJY",
+      "has_video": true,
+      "cover_image": "https://cdn.pixabay.com/photo/2020/01/17/21/01/zermatt-4774038_1280.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 17,
+      "title": "Episodio 17 - De los adoquines a los Alpes",
+      "date": "Lunes 3 de Julio 2023",
+      "description": "¡Hola y bienvenidos a el decimoséptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Giro Donne",
+        "Resultados Tour de Francia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-07-03_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/80HRx1Jx-ZU",
+      "has_video": true,
+      "cover_image": "https://cdn.pixabay.com/photo/2020/03/03/22/53/cyclists-4900032_1280.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 18,
+      "title": "Episodio 18 - De los adoquines a los Alpes",
+      "date": "Lunes 10 de Julio 2023",
+      "description": "¡Hola y bienvenidos a el decimoctavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Giro Donne",
+        "Resultados Tour de Francia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-07-10_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/x46h4kUWhXs",
+      "has_video": true,
+      "cover_image": "https://d2p6e6u75xmxt8.cloudfront.net/6/2020/11/Raymond-Poulidor-Jacques-Anquetil-profimedia-0068091828.jpg#?s_aid=53d49c5a-f8da-4b58-a137-091457dfe31e_572_0",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 19,
+      "title": "Episodio 19 - De los adoquines a los Alpes",
+      "date": "Lunes 17 de Julio 2023",
+      "description": "¡Hola y bienvenidos a el decimonoveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Previo Tour femenino",
+        "Resultados Tour de Francia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-07-17_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/uUZfdMlzA5o",
+      "has_video": true,
+      "cover_image": "https://p1.pxfuel.com/preview/226/679/590/touring-cycling-biking-bike-riding.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 20,
+      "title": "Episodio 20 - De los adoquines a los Alpes",
+      "date": "Lunes 24 de Julio 2023",
+      "description": "¡Hola y bienvenidos a el vigésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Tour femenino",
+        "Resultados Tour de Francia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-07-24_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/sDnE-QZUV_0",
+      "has_video": true,
+      "cover_image": "https://dorsal51.files.wordpress.com/2013/07/podium-tdf.jpg?w=1024",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 21,
+      "title": "Episodio 21 - De los adoquines a los Alpes",
+      "date": "Lunes 31 de Julio 2023",
+      "description": "¡Hola y bienvenidos a el vigésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Tour femenino",
+        "Previa mundial UCI"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-07-31_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/TmLEDs8pqdY",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/5/51/20180925_UCI_Road_World_Championships_Innsbruck_Women_Elite_ITT_Annemiek_van_Vleuten_850_9507.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 22,
+      "title": "Episodio 22 - De los adoquines a los Alpes",
+      "date": "Lunes 7 de Agosto 2023",
+      "description": "¡Hola y bienvenidos a el vigésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados mundial masculino",
+        "Historia de \"la Vuelta\""
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-08-07_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/ozypkL_Sr7s",
+      "has_video": true,
+      "cover_image": "https://c1.wallpaperflare.com/preview/523/169/111/uci-road-world-championships-cycliste-uci-bergen-bicycle-road-racing-event.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 23,
+      "title": "Episodio 23 - De los adoquines a los Alpes",
+      "date": "Lunes 14 de Agosto 2023",
+      "description": "¡Hola y bienvenidos a el vigésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados mundial femenino",
+        "Recorrido de \"la Vuelta\""
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-08-14_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/YWwVmPQgkQA",
+      "has_video": true,
+      "cover_image": "https://i0.hippopx.com/photos/645/216/837/bicycle-bike-old-bicycles-preview.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 24,
+      "title": "Episodio 24 - De los adoquines a los Alpes",
+      "date": "Lunes 21 de Agosto 2023",
+      "description": "¡Hola y bienvenidos a el vigésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Vuelta a Burgos",
+        "Recorrido de \"la Vuelta\""
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-08-21_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/zEoeQmd9zT4",
+      "has_video": true,
+      "cover_image": "https://cdn8.picryl.com/photo/1979/12/31/vuelta-ciclista-a-espana-1979-material-grafico-da40ea-1024.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 25,
+      "title": "Episodio 25 - De los adoquines a los Alpes",
+      "date": "Lunes 28 de Agosto 2023",
+      "description": "¡Hola y bienvenidos a el vigésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Tour de Noruega femenino",
+        "Resultados Tour Benelux",
+        "Resultados Vuelta a España"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-08-28_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/RtA0eUk9l9U?si=EDivd84G0PgHSwK8",
+      "has_video": true,
+      "cover_image": "images/vuelta-barceola-sagrada-familia.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 26,
+      "title": "Episodio 26 - De los adoquines a los Alpes",
+      "date": "Lunes 4 de Septiembre 2023",
+      "description": "¡Hola y bienvenidos a el vigésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Vuelta a España"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-09-04_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/EQc-FrpvMGE?si=ltomwhfhlPogNriy",
+      "has_video": true,
+      "cover_image": "https://www.cronicasdesiyasa.com/wp-content/uploads/2021/04/fundacion.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 27,
+      "title": "Episodio 27 - De los adoquines a los Alpes",
+      "date": "Lunes 11 de Septiembre 2023",
+      "description": "¡Hola y bienvenidos a el vigésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Despedida Van Vleuten",
+        "Resultados otras competiciones",
+        "Resultados Vuelta a España"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-09-11_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/u0hfbqJk5kg?si=NVNkBB6olvqOyklu",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tadej_Pogacar_Jonas_Vingegaard_Sepp_Kuss.jpg/1024px-Tadej_Pogacar_Jonas_Vingegaard_Sepp_Kuss.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 28,
+      "title": "Episodio 28 - De los adoquines a los Alpes",
+      "date": "Lunes 18 de Septiembre 2023",
+      "description": "¡Hola y bienvenidos a el vigésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Vuelta a España"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-09-18_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/2vVUiJeFto8?si=LWugDPk3JHwvtjyL",
+      "has_video": true,
+      "cover_image": "https://www.ciclismoafondo.es/uploads/s1/12/39/41/80/jonas-vingegaard-sepp-kuss-y-primoz-roglic-con-sus-maillots-de-ganadores-de-las-tres-grandes-vueltas.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 29,
+      "title": "Episodio 29 - De los adoquines a los Alpes",
+      "date": "Lunes 25 de Septiembre 2023",
+      "description": "¡Hola y bienvenidos a el vigésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-09-25_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/k4BvUepr-io?si=puy8CY1o6eReJ9kF",
+      "has_video": true,
+      "cover_image": "https://indemnizacionesporaccidente.com/wp-content/uploads/2020/10/Como-adelantar-a-un-ciclista.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 30,
+      "title": "Episodio 30 - De los adoquines a los Alpes",
+      "date": "Lunes 2 de Octubre 2023",
+      "description": "¡Hola y bienvenidos a el trigésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Tour de Croacia",
+        "Resultados del Giro de la Emilia",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-10-02_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/fMyJLSK6AsA?si=CWkRoNnKHxv4IcUm",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Tour-of-Croatia-2015-01-roberta-f.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 31,
+      "title": "Episodio 31 - De los adoquines a los Alpes",
+      "date": "Lunes 9 de Octubre 2023",
+      "description": "¡Hola y bienvenidos a el trigésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados mundial de gravel",
+        "Resultados París-Tours",
+        "Resultados del Giro de Lombardía",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-10-09_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/MyfBKcxY9Zw?si=fvIediShox-fvoxv",
+      "has_video": true,
+      "cover_image": "https://esmtb.com/wp-content/uploads/2023/09/ucigravel.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 32,
+      "title": "Episodio 32 - De los adoquines a los Alpes",
+      "date": "Lunes 16 de Octubre 2023",
+      "description": "¡Hola y bienvenidos a el trigésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras de un día 2023",
+        "Plantillas 2024",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-10-16_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/E86eeOYE35A?si=aQFieMmu80MOyqmo",
+      "has_video": true,
+      "cover_image": "https://www.navarratelevision.es/media/IMG/2023/AC987E95-0975-7620-701962FF7ACAF1DA.JPG",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 33,
+      "title": "Episodio 33 - De los adoquines a los Alpes",
+      "date": "Lunes 23 de Octubre 2023",
+      "description": "¡Hola y bienvenidos a el trigésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Presentación Giro 2024",
+        "Repaso carreras de una semana 2023",
+        "Repaso carreras de tres semanas 2023",
+        "Plantillas 2024",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-10-23_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/ARkLzEEfKQ8?si=pByiDoo_vg4feKRw",
+      "has_video": true,
+      "cover_image": "https://images.squarespace-cdn.com/content/v1/52f19869e4b0fcddda26e816/1437130221543-M06I96LOWP0DZW77E13O/Camino+de+Santiago+-+Copyright+Ivan+Blanco+HR+-6444.jpg?format=1000w",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 34,
+      "title": "Episodio 34 - De los adoquines a los Alpes",
+      "date": "Lunes 30 de Octubre 2023",
+      "description": "¡Hola y bienvenidos a el trigésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Presentación Tour 2024",
+        "Repaso carreras  2023",
+        "Premios alposuqines",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2023-10-30_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/UF13le4_EG4?si=VPRulN70rGpBUGDn",
+      "has_video": true,
+      "cover_image": "https://c.pxhere.com/photos/f7/c6/cyclists_race_tour_de_france_paris_stage_competition_sport_biking-759686.jpg!d",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 35,
+      "title": "Episodio 35 - De los adoquines a los Alpes",
+      "date": "Lunes 5 de Febrero 2024",
+      "description": "¡Hola y bienvenidos a el trigésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Presentación nueva temporada",
+        "Repaso carreras 2024",
+        "Quiniela de campeones",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-02-05_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/nVX2X8Zithc?si=wxtuN1a_4Ukq19EH",
+      "has_video": true,
+      "cover_image": "https://c.pxhere.com/photos/7a/a7/bike_winter_lake_snow_frozen_wintry-1208260.jpg!d",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 36,
+      "title": "Episodio 36 - De los adoquines a los Alpes",
+      "date": "Lunes 12 de Febrero 2024",
+      "description": "¡Hola y bienvenidos a el trigésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "Historia: el Tour de los Alpes Marítimos",
+        "O gran camiño: la crono de A Coruña",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-02-12_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/4EnfCZiX3KI?si=-Pa1bKRl-Q1y4mAf",
+      "has_video": true,
+      "cover_image": "https://c.pxhere.com/photos/29/a8/child_bmx_round_bikepark_skate_park-757704.jpg!d",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 37,
+      "title": "Episodio 37 - De los adoquines a los Alpes",
+      "date": "Lunes 19 de Febrero 2024",
+      "description": "¡Hola y bienvenidos a el trigésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "O gran camiño: la crono de A Coruña",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-02-19_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/Cq7Eh7mkluM?si=PQ5Z1Yq2cJB-oMt0",
+      "has_video": true,
+      "cover_image": "https://felixwong.com/gallery/images/o/o-gran-camino-stage-2-2023.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 38,
+      "title": "Episodio 38 - De los adoquines a los Alpes",
+      "date": "Lunes 26 de Febrero 2024",
+      "description": "¡Hola y bienvenidos a el trigésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "O gran camiño: resultados",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-02-26_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/k4nx4j9zWpY?si=OenofOiXJcpjCUfv",
+      "has_video": true,
+      "cover_image": "https://c.pxhere.com/photos/c4/55/bicycle_bike_cyclist_female_healthy_hobby_outdoors_pleated_skirt-1068638.jpg!d",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 39,
+      "title": "Episodio 39 - De los adoquines a los Alpes",
+      "date": "Lunes 4 de Marzo 2024",
+      "description": "¡Hola y bienvenidos a el trigésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "Strade Bianche",
+        "Recorrido París Niza y Tirreno Adriático",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-03-04_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/Xjs3SACSnwM?si=m2kQvSLXDh9UKxme",
+      "has_video": true,
+      "cover_image": "https://c.pxhere.com/photos/70/ac/hybrid_bike_hybrid_bicycles_classic_bike_classic_smile_bike_smile_domingo-1364004.jpg!d",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 40,
+      "title": "Episodio 40 - De los adoquines a los Alpes",
+      "date": "Lunes 11 de Marzo 2024",
+      "description": "¡Hola y bienvenidos a el cuadragésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "Resultados París Niza y Tirreno Adriático",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-03-11_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/en2TgVelX5A?si=tfPgBjbwwJVaEb3A",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019_Milan-Sanremo.jpg/1599px-2019_Milan-Sanremo.jpg?20190330171315",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 41,
+      "title": "Episodio 41 - De los adoquines a los Alpes",
+      "date": "Lunes 18 de Marzo 2024",
+      "description": "¡Hola y bienvenidos a el cuadragésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "Resultados París Niza y Tirreno Adriático",
+        "Resultados Alfredo Binda"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-03-18_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/qnoCdowoKNA?si=XHuqx6Pb-NcahfGR",
+      "has_video": true,
+      "cover_image": "https://www.rawcyclingmag.com/wp-content/uploads/2020/02/77A2904.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 42,
+      "title": "Episodio 42 - De los adoquines a los Alpes",
+      "date": "Lunes 25 de Marzo 2024",
+      "description": "¡Hola y bienvenidos a el cuadragésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "Resultados Volta Catalunya",
+        "Resultados Gante Wevelgem",
+        "Resultados a través de Flandes",
+        "Resultados trofeo Coppi Bartali"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-03-25_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/YZtdPAQ5DB8?si=OtnYfJLWKYklY1pt",
+      "has_video": true,
+      "cover_image": "https://static.motor.es/fotos-diccionario/2022/08//carril-bici_1659715680.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 43,
+      "title": "Episodio 43 - De los adoquines a los Alpes",
+      "date": "Lunes 1 de Abril 2024",
+      "description": "¡Hola y bienvenidos a el cuadragésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "Resultados a través de Flandes",
+        "Resultados Tour de Flandes",
+        "Previa Itzulia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-04-01_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/6pub_vjg2mk?si=4AGH4B8zmIHzYusk",
+      "has_video": true,
+      "cover_image": "https://www.rawcyclingmag.com/wp-content/uploads/2017/08/IMG_1309-1.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 44,
+      "title": "Episodio 44 - De los adoquines a los Alpes",
+      "date": "Lunes 8 de Abril 2024",
+      "description": "¡Hola y bienvenidos a el cuadragésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "Resultados Itzulia",
+        "Resultados París-Roubaix",
+        "Previa Amstel Gold Race"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-04-08_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/gM2Nl6b_B3E?si=4HLDtf322YUiYTNQ",
+      "has_video": true,
+      "cover_image": "https://media.snl.no/media/200573/standard_compressed_Paris-Roubaix_2021_KM39.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 45,
+      "title": "Episodio 45 - De los adoquines a los Alpes",
+      "date": "Lunes 15 de Abril 2024",
+      "description": "¡Hola y bienvenidos a el cuadragésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "Resultados Amstel Gold Race",
+        "Previa Lieja-Bastoña-Lieja",
+        "Previa Flecha Valona"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-04-15_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/oRSLQWgVEl4?si=EfkJC0i1n2aPnCxe",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/2019_Amstel_Gold_Race_100.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 46,
+      "title": "Episodio 46 - De los adoquines a los Alpes",
+      "date": "Lunes 22 de Abril 2024",
+      "description": "¡Hola y bienvenidos a el cuadragésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Entrevista a Felipe Vazquez de MyTopBike",
+        "Repaso carreras inicio temporada",
+        "Resultados Lieja-Bastoña-Lieja",
+        "Resultados Flecha Valona",
+        "Previa la Vuelta Femenina"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-04-22_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/uF7HHXlCjWA?si=94AYWWaMBOFLoGrX",
+      "has_video": true,
+      "cover_image": "https://c.pxhere.com/photos/5d/fa/bike_girls_girl_gent_belgium_street_at_home_city-546484.jpg!d",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 47,
+      "title": "Episodio 47 - De los adoquines a los Alpes",
+      "date": "Lunes 29 de Abril 2024",
+      "description": "¡Hola y bienvenidos a el cuadragésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Repaso carreras inicio temporada",
+        "Resultados la Vuelta femenina",
+        "Resultados Tour de Romandía",
+        "Previa Giro de Italia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-04-29_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/tVlW45nZ4rE?si=Y-IxWZFCIzJfQS80",
+      "has_video": true,
+      "cover_image": "https://live.staticflickr.com/65535/52925249441_4c286460d8_b.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 48,
+      "title": "Episodio 48 - De los adoquines a los Alpes",
+      "date": "Lunes 6 de Mayo 2024",
+      "description": "¡Hola y bienvenidos a el cuadragésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados la Vuelta femenina",
+        "Resultados Giro de Italia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-05-06_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/c7k7tVZS4vM?si=q8XL6EPFM3vE4PaL",
+      "has_video": true,
+      "cover_image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Vwd2s2MjMxNTMwNi13aWtpbWVkaWEtaW1hZ2Uta293bWlzOGQuanBn.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 49,
+      "title": "Episodio 49 - De los adoquines a los Alpes",
+      "date": "Lunes 13 de Mayo 2024",
+      "description": "¡Hola y bienvenidos a el cuadragésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados la Itzulia femenina",
+        "Resultados Giro de Italia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-05-13_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/70_f4fVOXaQ?si=JjpIfuQk4abF5WJ9",
+      "has_video": true,
+      "cover_image": "https://cdn.mos.cms.futurecdn.net/fvDhCyZ9XTUuU2aWsohzTG.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 50,
+      "title": "Episodio 50 - De los adoquines a los Alpes",
+      "date": "Lunes 20 de Mayo 2024",
+      "description": "¡Hola y bienvenidos a el quincuagésimoepisodio episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados la Vuelta a Burgos femenina",
+        "Resultados Giro de Italia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-05-20_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/VhYEXiDOaGw?si=sIDJSVVb8ZN-563N",
+      "has_video": true,
+      "cover_image": "https://s3.ppllstatics.com/burgosconecta/www/multimedia/2024/05/18/ciclismo-burgos-vuelta-k1fD-U220188195606tcF-1200x840@Burgosconecta.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 51,
+      "title": "Episodio 51 - De los adoquines a los Alpes",
+      "date": "Lunes 27 de Mayo 2024",
+      "description": "¡Hola y bienvenidos a el quincuagésimoepisodio episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Giro de Italia"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-05-27_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/_gOAO6ahvpM?si=EWng7nAiuH9qcMkb",
+      "has_video": true,
+      "cover_image": "https://live.staticflickr.com/2214/1753164112_ca2286e761_b.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 52,
+      "title": "Episodio 52 - De los adoquines a los Alpes",
+      "date": "Lunes 3 de Junio 2024",
+      "description": "¡Hola y bienvenidos a el quincuagésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Dauphine",
+        "Previa Vuelta Suiza"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-06-03_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/pTTpkDDd_XE?si=wulPlOZT3aZXRf5R",
+      "has_video": true,
+      "cover_image": "https://estaticos-cdn.prensaiberica.es/clip/691ae317-3257-4842-ac95-41570fc823d4_16-9-discover-aspect-ratio_default_0.webp",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 53,
+      "title": "Episodio 53 - De los adoquines a los Alpes",
+      "date": "Lunes 10 de Junio 2024",
+      "description": "¡Hola y bienvenidos a el quincuagésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Dauphine",
+        "Previa Tour"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-06-10_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/yrpOz3r2MqE?si=GOLAicd9g87I7lCU",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/2020_Tour_de_France_Stage_18_peloton.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 54,
+      "title": "Episodio 54 - De los adoquines a los Alpes",
+      "date": "Lunes 17 de Junio 2024",
+      "description": "¡Hola y bienvenidos a el quincuagésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Previa Tour"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-06-17_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "",
+      "has_video": false,
+      "cover_image": "https://www.sport.es/bicio/wp-content/uploads/2024/05/Movistar-Team-1.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 55,
+      "title": "Episodio 55 - De los adoquines a los Alpes",
+      "date": "Lunes 24 de Junio 2024",
+      "description": "¡Hola y bienvenidos a el quincuagésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Campeonatos nacionales",
+        "Previa Tour"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-06-24_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/54-G31MdSek?si=nc12hLFGUs5f-O7_",
+      "has_video": true,
+      "cover_image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/watermark:Picture%3A+Sirotti/width:742/height:495/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fciclismoaldia.newsifier.com%2Fimages%2F2023-07%2F1125911354-64b4615b2400a.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 56,
+      "title": "Episodio 56 - De los adoquines a los Alpes",
+      "date": "Lunes 1 de Julio 2024",
+      "description": "¡Hola y bienvenidos a el quincuagésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Tour"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-07-01_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/0tv6ZpUuLBo?si=YN0Z3E241e140wbA",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Col_du_Galibier_-_Tour_de_France_1993.jpg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 57,
+      "title": "Episodio 57 - De los adoquines a los Alpes",
+      "date": "Lunes 8 de Julio 2024",
+      "description": "¡Hola y bienvenidos a el quincuagésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Tour"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-07-08_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/bWZzC449vZA?si=fH2LY-Dr0GVGLt_c",
+      "has_video": true,
+      "cover_image": "https://c.pxhere.com/photos/7c/13/show_street_camera_new_city_nyc_trip_travel-241567.jpg!d",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 58,
+      "title": "Episodio 58 - De los adoquines a los Alpes",
+      "date": "Lunes 15 de Julio 2024",
+      "description": "¡Hola y bienvenidos a el quincuagésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Tour"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-07-15_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/N9nc0u1BLYE?si=CJv3reCRl5e1jTDe",
+      "has_video": true,
+      "cover_image": "https://images.squarespace-cdn.com/content/v1/52f19869e4b0fcddda26e816/1444072685086-7YDD6420CDT1MHBJEE84/Camino+del+Norte+-+Dia+03+-+Copyright+Ivan+Blanco+-+Camino+del+Norte+-+Dia+03+-+Copyright+Ivan+Blanco+-+Monte+Igueldo%2C+Bicigrino%2C+San+Sebastian%2C+viajar%2C+BTT%2C+Orbea",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 59,
+      "title": "Episodio 59 - De los adoquines a los Alpes",
+      "date": "Lunes 22 de Julio 2024",
+      "description": "¡Hola y bienvenidos a el quincuagésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Tour"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-07-22_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/8oOHcJz-meI?si=1NvGBL2tcZzqc2Zu",
+      "has_video": true,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/La_course_by_Le_Tour_de_France_2019_%C3%A0_Pau_-_Podium_02.jpg/1599px-La_course_by_Le_Tour_de_France_2019_%C3%A0_Pau_-_Podium_02.jpg?20190719211157",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 60,
+      "title": "Episodio 60 - De los adoquines a los Alpes",
+      "date": "Lunes 29 de Julio 2024",
+      "description": "¡Hola y bienvenidos a el sexagésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Previa JJ.OO.",
+        "Previa la Vuelta"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-07-29_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/RHVyFuvYEXI?si=v8Rr_agDnqekF5gE",
+      "has_video": true,
+      "cover_image": "https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/fdky7ngqkdsgovshfyjn",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 61,
+      "title": "Episodio 61 - De los adoquines a los Alpes",
+      "date": "Lunes 5 de Agosto 2024",
+      "description": "¡Hola y bienvenidos a el sexagésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados JJ.OO.",
+        "Previa la Vuelta"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-08-05_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/11ed7L0ZkD4?si=NlQdlUwFCWsI10Ri",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/61.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 62,
+      "title": "Episodio 62 - De los adoquines a los Alpes",
+      "date": "Lunes 12 de Agosto 2024",
+      "description": "¡Hola y bienvenidos a el sexagésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Tour femenino",
+        "Previa la Vuelta"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-08-12_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/UTodqCULl6k?si=9mGbuq00kMfBVuuf",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/62.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 63,
+      "title": "Episodio 63 - De los adoquines a los Alpes",
+      "date": "Lunes 19 de Agosto 2024",
+      "description": "¡Hola y bienvenidos a el sexagésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados la Vuelta"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-08-19_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/E9O-_BP29xY?si=hzFHAtj7I9g-MZj6",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/63.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 64,
+      "title": "Episodio 64 - De los adoquines a los Alpes",
+      "date": "Lunes 26 de Agosto 2024",
+      "description": "¡Hola y bienvenidos a el sexagésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados la Vuelta"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-08-26_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/napKGK-3C_M?si=GA8olu-HZlE43hBh",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/64.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 65,
+      "title": "Episodio 65 - De los adoquines a los Alpes",
+      "date": "Lunes 2 de Septiembre 2024",
+      "description": "¡Hola y bienvenidos a el sexagésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados la Vuelta"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-09-02_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/GT_XUpRT4lc?si=K3jzPTSvpIN30zPO",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/65.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 66,
+      "title": "Episodio 66 - De los adoquines a los Alpes",
+      "date": "Lunes 9 de Septiembre 2024",
+      "description": "¡Hola y bienvenidos a el sexagésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados la Vuelta",
+        "Análisis resultados top ten"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-09-09_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/LlSA4nWmIPE?si=RbVdCiFWk_GPGnwJ",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/66.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 67,
+      "title": "Episodio 67 - De los adoquines a los Alpes",
+      "date": "Lunes 16 de Septiembre 2024",
+      "description": "¡Hola y bienvenidos a el sexagésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados europeos",
+        "Previa mundiales",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-09-16_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/7PeBJSckAms?si=lOtJDB_JD968Jb-6",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/67.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 68,
+      "title": "Episodio 68 - De los adoquines a los Alpes",
+      "date": "Lunes 23 de Septiembre 2024",
+      "description": "¡Hola y bienvenidos a el sexagésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados europeos",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-09-23_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/tfCYtdzEqcQ?si=O59aQ1afxNmFVMP4",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/68.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 69,
+      "title": "Episodio 69 - De los adoquines a los Alpes",
+      "date": "Lunes 30 de Septiembre 2024",
+      "description": "¡Hola y bienvenidos a el sexagésimo noveno episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-09-30_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/2yNy_9eTq0E?si=Iz5IBqjjkJ81Zvf-",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/69.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 70,
+      "title": "Episodio 70 - De los adoquines a los Alpes",
+      "date": "Lunes 7 de Octubre 2024",
+      "description": "¡Hola y bienvenidos a el septuagésimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Giro de la emilia",
+        "Resultados mundial gravel",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-10-07_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/wXJZFXPXIS8?si=m_f1gpN9wDPYHLtE",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/70.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 71,
+      "title": "Episodio 71 - De los adoquines a los Alpes",
+      "date": "Lunes 14 de Octubre 2024",
+      "description": "¡Hola y bienvenidos a el septuagésimo primer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Resultados Ladies Tour",
+        "Resultados Il Lombardía",
+        "Rumore rumore"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-10-14_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/eCZylPFty28?si=IPRyD234qupPGch1",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/71.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 72,
+      "title": "Episodio 72 - De los adoquines a los Alpes",
+      "date": "Lunes 21 de Octubre 2024",
+      "description": "¡Hola y bienvenidos a el septuagésimo segundo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Rumore rumore",
+        "Entrevista gerente Top Bike"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-10-21_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/KRXAwShrO8Q?si=lS3RDxnnXMBE5osI",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/72.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 73,
+      "title": "Episodio 73 - De los adoquines a los Alpes",
+      "date": "Lunes 28 de Octubre 2024",
+      "description": "¡Hola y bienvenidos a el septuagésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Rumore rumore",
+        "Premios Alpoquines 2024",
+        "Cierre de temporada"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2024-10-28_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/LonIfcDUk-Q?si=e6VsW2ies8E75LGD",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/73.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 74,
+      "title": "Episodio 74 - De los adoquines a los Alpes",
+      "date": "Lunes 3 de Marzo 2025",
+      "description": "¡Hola y bienvenidos a el septuagésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Bienvenido a la temporada 2024-2025",
+        "Apuestas para la temporada 2024-2025"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2025-03-03_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/mvtoHa95q08?si=9o6y4tv1mLObmVu5",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/74.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 75,
+      "title": "Episodio 75 - De los adoquines a los Alpes",
+      "date": "Lunes 10 de Marzo 2025",
+      "description": "¡Hola y bienvenidos a el septuagésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Análisis Strade Bianche",
+        "Análisis París-Niza",
+        "Análisis Tirreno-Adriático"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2025-03-10_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/zVIXa1sn_Lc?si=D9HbcHxnx-8Q0UHW",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/75.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 76,
+      "title": "Episodio 76 - De los adoquines a los Alpes",
+      "date": "Lunes 17 de Marzo 2025",
+      "description": "¡Hola y bienvenidos a el septuagésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Previa Tirreno-Adriático",
+        "Análisis París-Niza",
+        "Previa Milán-Sanremo"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2025-03-17_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/w2h4Q5Zy7XA?si=LwDHhaXjaIgYg6_w",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/76.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 77,
+      "title": "Episodio 77 - De los adoquines a los Alpes",
+      "date": "Lunes 24 de Marzo 2025",
+      "description": "¡Hola y bienvenidos a el septuagésimo séptimo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Análisis Milán-Sanremo",
+        "Previa Volta a Catalunya",
+        "Previa E3"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2025-03-24_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/lAz5NACkvaU?si=CUhyo2q264-0DKJy",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/77.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    },
+    {
+      "id": 78,
+      "title": "Episodio 78 - De los adoquines a los Alpes",
+      "date": "Lunes 31 de Marzo 2025",
+      "description": "¡Hola y bienvenidos a el septuagésimo octavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Análisis E3",
+        "Análisis Volta a Catalunya",
+        "Previa A través de Flandes",
+        "Previa Tour de Flanders"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2025-03-31_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/yPnjEuqz8G8?si=Y5e4Oc86UK1Wss8f",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/78.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
+    }
+  ]
+}
+
