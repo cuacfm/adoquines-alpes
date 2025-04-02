@@ -1,6 +1,14 @@
 async function loadCompetitions() {
     try {
-        const response = await fetch('competitions.json');
+        // Try local file first, fallback to remote URL
+        let response;
+        try {
+            response = await fetch('competitions.json');
+        } catch (localError) {
+            console.log('Local file not found, trying remote URL...');
+            response = await fetch('https://cuacfm.org/globeros/competitions.json');
+        }
+        
         const data = await response.json();
         const competitions = data.competitions;
         
