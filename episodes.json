@@ -1386,6 +1386,22 @@
       "cover_image": "https://cuacfm.org/globeros/images/episodes/83.jpeg",
       "has_komoot": false,
       "komoot_embed": ""
+    },
+    {
+      "id": 84,
+      "title": "Episodio 84 - De los adoquines a los Alpes",
+      "date": "Lunes 19 de Mayo 2025",
+      "description": "¡Hola y bienvenidos a el octogésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.", 
+      "topics": [
+        "Análisis del Giro de Italia",
+        "Previa la Vuelta a Burgos femenina"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2025-05-19_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/ZX_6-He6Wxk?si=slLnyCjSszqv8bu9",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/84.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
     }
   ]
 }
