@@ -21,6 +21,21 @@ Todos los lunes, a las 19.00, en Cuac FM.</itunes:summary>
       <itunes:name>CUAC FM</itunes:name>
     </itunes:owner>
   <item>
+      <title>3x11 De los Adoquines a los Alpes</title>
+      <link>https://cuacfm.org/globeros/episodio.html?id=85</link>
+      <description>¡Hola y bienvenidos a el octogésimo quinto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
+
+    • Análisis de la Vuelta a Burgos femenina
+    • Análisis Giro de Italia
+    </description>
+    <pubDate>Mon, 26 May 2025 17:00:00 +0000</pubDate>
+    <enclosure url="https://cuacfm.org/radioco/recordings/2025-05-26_19-00-00_de-los-adoquines-los-alpes.mp3" length="82077558" type="audio/mpeg"/>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:duration>0:01:00</itunes:duration>
+    <itunes:image href="https://cuacfm.org/globeros/images/episodes/85.jpeg" />
+  </item>
+  <item>
     <title>3x10 De los Adoquines a los Alpes</title>
     <link>https://cuacfm.org/globeros/episodio.html?id=84</link>
     <description>¡Hola y bienvenidos a el octogésimo cuarto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.
