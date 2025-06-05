@@ -1418,6 +1418,22 @@
       "cover_image": "https://cuacfm.org/globeros/images/episodes/85.jpeg",
       "has_komoot": false,
       "komoot_embed": ""
+    },
+    {
+      "id": 86,
+      "title": "Episodio 86 - De los adoquines a los Alpes",
+      "date": "Lunes 02 de Junio 2025",
+      "description": "¡Hola y bienvenidos a el octogésimo sexto episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Análisis Giro de Italia",
+        "Previa Criterium Dauphine"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2025-06-02_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/iFouENrEkIo?si=LsViWTtQXJagjvfY",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/86.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
     }
   ]
 }
