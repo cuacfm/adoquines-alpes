@@ -1484,6 +1484,22 @@
       "cover_image": "https://cuacfm.org/globeros/images/episodes/89.jpeg",
       "has_komoot": false,
       "komoot_embed": ""
+    },
+    {
+      "id": 90,
+      "title": "Episodio 90 - De los adoquines a los Alpes",
+      "date": "Lunes 30 de Junio 2025",
+      "description": "¡Hola y bienvenidos a el noventavo episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Análisis Tour de France",
+        "Análisis Giro de Italia femenino"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2025-06-30_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/EB4Kq_4gTdk?si=0MaQR-8aWTjQHuPl",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/89.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
     }       
   ]
 }
