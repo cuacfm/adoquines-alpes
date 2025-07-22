@@ -4,6 +4,7 @@ Allow: /episodio.html
 Disallow: /episodio*.html
 
 # Redirect old episode URLs to new dynamic URL
+Redirect 301 /episodio93.html /episodio.html?id=93
 Redirect 301 /episodio92.html /episodio.html?id=92
 Redirect 301 /episodio91.html /episodio.html?id=91
 Redirect 301 /episodio90.html /episodio.html?id=90
