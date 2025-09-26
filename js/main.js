@@ -185,7 +185,8 @@ jQuery(document).ready(function($) {
        60: "Sexagésimo",
        70: "Septuagésimo",
        80: "Octogésimo",
-       90: "Nonagésimo"
+       90: "Nonagésimo",
+       100: "Centésimo"
      };
 
      if (num <= 20) {
