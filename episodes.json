@@ -1689,6 +1689,21 @@
       "cover_image": "https://cuacfm.org/globeros/images/episodes/102.jpeg",
       "has_komoot": false,
       "komoot_embed": ""
+    },
+    {
+      "id": 103,
+      "title": "Episodio 103 - De los adoquines a los Alpes",
+      "date": "Lunes 29 de Septiembre 2025",
+      "description": "¡Hola y bienvenidos a el centésimo tercer episodio de Los adoquines a los Alpes! El podcast donde hablamos de todo lo relacionado con el mundo de la bicicleta: noticias, carreras, consejos, entrevistas y mucho más.",
+      "topics": [
+        "Análisis del mundial de ciclismo"
+      ],
+      "audio_url": "https://cuacfm.org/radioco/recordings/2025-09-29_19-00-00_de-los-adoquines-los-alpes.mp3",
+      "video_url": "https://www.youtube.com/embed/m-SQ2lJ7jnA?si=w7cjSswaFyIJbACD",
+      "has_video": true,
+      "cover_image": "https://cuacfm.org/globeros/images/episodes/103.jpeg",
+      "has_komoot": false,
+      "komoot_embed": ""
     }
   ]
 }
