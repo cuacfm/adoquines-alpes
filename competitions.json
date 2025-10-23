@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Tour Down Under",
-      "date": "21-26 Enero",
+      "date": "20-25 Enero",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Tour_Down_Under",
       "category": "2.UWT",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "name": "Cadel Evans Great Ocean",
-      "date": "2 Febrero",
+      "date": "1 Febrero",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Cadel_Evans_Great_Ocean_Road_Race",
       "category": "1.UWT",
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "name": "UAE Tour",
-      "date": "17-23 Febrero",
+      "date": "16-22 Febrero",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/UAE_Tour",
       "category": "2.UWT",
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "Circuito Nieuwsblad",
-      "date": "1 Marzo",
+      "date": "28 Febrero",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Omloop_Het_Nieuwsblad",
       "category": "1.UWT",
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "name": "Strade Bianche",
-      "date": "8 Marzo",
+      "date": "7 Marzo",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Strade_Bianche",
       "category": "1.UWT",
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "name": "París-Niza",
-      "date": "9-16 Marzo",
+      "date": "8-15 Marzo",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Par%C3%ADs-Niza",
       "category": "2.UWT",
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "name": "Tirreno-Adriático",
-      "date": "10-16 Marzo",
+      "date": "9-15 Marzo",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Tirreno-Adri%C3%A1tico",
       "category": "2.UWT",
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "name": "Milán-Sanremo",
-      "date": "22 Marzo",
+      "date": "21 Marzo",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Mil%C3%A1n-San_Remo",
       "category": "1.UWT",
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "name": "Brujas-De Panne",
-      "date": "26 Marzo",
+      "date": "25 Marzo",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Driedaagse_Brugge-De_Panne",
       "category": "1.UWT",
@@ -93,7 +93,7 @@
     {
       "id": 10,
       "name": "Clásica E3",
-      "date": "28 Marzo",
+      "date": "27 Marzo",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/E3_Saxo_Bank_Classic",
       "category": "1.UWT",
@@ -103,7 +103,7 @@
     {
       "id": 11,
       "name": "Volta Catalunya",
-      "date": "24-30 Marzo",
+      "date": "23-29 Marzo",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Volta_a_Catalunya",
       "category": "2.UWT",
@@ -113,7 +113,7 @@
     {
       "id": 12,
       "name": "Gante-Wevelgem",
-      "date": "30 Marzo",
+      "date": "29 Marzo",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Gante-Wevelgem",
       "category": "1.UWT",
@@ -123,7 +123,7 @@
     {
       "id": 13,
       "name": "A Través Flandes",
-      "date": "2 Abril",
+      "date": "1 Abril",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Dwars_door_Vlaanderen",
       "category": "1.UWT",
@@ -132,7 +132,7 @@
     {
       "id": 14,
       "name": "Vuelta Flandes",
-      "date": "6 Abril",
+      "date": "5 Abril",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Tour_de_Flandes",
       "category": "1.UWT",
@@ -141,7 +141,7 @@
     {
       "id": 15,
       "name": "Vuelta País Vasco",
-      "date": "7-12 Abril",
+      "date": "6-11 Abril",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Itzulia_Basque_Country",
       "category": "2.UWT",
@@ -150,7 +150,7 @@
     {
       "id": 16,
       "name": "París-Roubaix",
-      "date": "13 Abril",
+      "date": "12 Abril",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Par%C3%ADs-Roubaix",
       "category": "1.UWT",
@@ -159,7 +159,7 @@
     {
       "id": 17,
       "name": "Amstel Gold Race",
-      "date": "20 Abril",
+      "date": "19 Abril",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Amstel_Gold_Race",
       "category": "1.UWT",
@@ -168,7 +168,7 @@
     {
       "id": 18,
       "name": "La Flecha Valona",
-      "date": "23 Abril",
+      "date": "22 Abril",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/La_Flecha_Valona",
       "category": "1.UWT",
@@ -177,7 +177,7 @@
     {
       "id": 19,
       "name": "Lieja-Bastoña-Lieja",
-      "date": "27 Abril",
+      "date": "26 Abril",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Lieja-Basto%C3%B1a-Lieja",
       "category": "1.UWT",
@@ -195,7 +195,7 @@
     {
       "id": 21,
       "name": "Tour Romandía",
-      "date": "29 Abril-4 Mayo",
+      "date": "28 Abril-3 Mayo",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Tour_de_Romand%C3%ADa",
       "category": "2.UWT",
@@ -204,7 +204,7 @@
     {
       "id": 22,
       "name": "Giro Italia",
-      "date": "10 Mayo-1 Junio",
+      "date": "9-31 Mayo",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Giro_de_Italia",
       "category": "2.UWT",
@@ -213,7 +213,7 @@
     {
       "id": 23,
       "name": "Critérium Dauphiné",
-      "date": "8-15 Junio",
+      "date": "7-14 Junio",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Crit%C3%A9rium_del_Dauphin%C3%A9",
       "category": "2.UWT",
@@ -222,7 +222,7 @@
     {
       "id": 24,
       "name": "Tour Suiza",
-      "date": "15-22 Junio",
+      "date": "17-21 Junio",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Tour_de_Suiza",
       "category": "2.UWT",
@@ -231,7 +231,7 @@
     {
       "id": 25,
       "name": "Copenhague Sprint",
-      "date": "22 Junio",
+      "date": "14 Junio",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Danmark_Rundt",
       "category": "1.UWT",
@@ -240,7 +240,7 @@
     {
       "id": 26,
       "name": "Tour Francia",
-      "date": "5-27 Julio",
+      "date": "4-26 Julio",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Tour_de_Francia",
       "category": "2.UWT",
@@ -249,7 +249,7 @@
     {
       "id": 27,
       "name": "Clásica San Sebastián",
-      "date": "2 Agosto",
+      "date": "1 Agosto",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Cl%C3%A1sica_de_San_Sebasti%C3%A1n",
       "category": "1.UWT",
@@ -258,7 +258,7 @@
     {
       "id": 28,
       "name": "Tour Polonia",
-      "date": "4-10 Agosto",
+      "date": "3-9 Agosto",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Tour_de_Polonia",
       "category": "2.UWT",
@@ -267,7 +267,7 @@
     {
       "id": 29,
       "name": "Clásica Hamburgo",
-      "date": "17 Agosto",
+      "date": "16 Agosto",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Cl%C3%A1sica_de_Hamburgo",
       "category": "1.UWT",
@@ -276,7 +276,7 @@
     {
       "id": 30,
       "name": "Renewi Tour",
-      "date": "20-24 Agosto",
+      "date": "19-23 Agosto",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Benelux_Tour",
       "category": "2.UWT",
@@ -285,7 +285,7 @@
     {
       "id": 31,
       "name": "Clásica Bretaña-Oeste Francia",
-      "date": "31 Agosto",
+      "date": "30 Agosto",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Cl%C3%A1sica_de_Breta%C3%B1a",
       "category": "1.UWT",
@@ -294,7 +294,7 @@
     {
       "id": 32,
       "name": "GP Québec",
-      "date": "12 Septiembre",
+      "date": "11 Septiembre",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Grand_Prix_Cycliste_de_Qu%C3%A9bec",
       "category": "1.UWT",
@@ -303,7 +303,7 @@
     {
       "id": 33,
       "name": "Vuelta España",
-      "date": "23 Agosto-14 Septiembre",
+      "date": "22 Agosto-13 Septiembre",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Vuelta_a_Espa%C3%B1a",
       "category": "2.UWT",
@@ -312,7 +312,7 @@
     {
       "id": 34,
       "name": "GP Montréal",
-      "date": "14 Septiembre",
+      "date": "13 Septiembre",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Grand_Prix_Cycliste_de_Montr%C3%A9al",
       "category": "1.UWT",
@@ -321,7 +321,7 @@
     {
       "id": 35,
       "name": "Il Lombardia",
-      "date": "11 Octubre",
+      "date": "10 Octubre",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Giro_de_Lombard%C3%ADa",
       "category": "1.UWT",
@@ -330,7 +330,7 @@
     {
       "id": 36,
       "name": "Tour Guangxi",
-      "date": "14-19 Octubre",
+      "date": "13-18 Octubre",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://es.wikipedia.org/wiki/Tour_de_Guangxi",
       "category": "2.UWT",
@@ -339,7 +339,7 @@
     {
       "id": 37,
       "name": "Cerrado por vacaciones invernales",
-      "date": "A partir de 15 de Octubre",
+      "date": "20 Octubre",
       "image": "images/milan.jpg",
       "wikipedia_url": "https://cuacfm.org",
       "category": "1",
